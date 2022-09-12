@@ -1,0 +1,136 @@
+title: Wadleigh History Project
+subtitle: A Harlem school, 1902 to today
+author:
+  name: 
+  email: harlemedhistory@tc.columbia.edu
+description: A collaborative investigation into Black educational history through one Harlem school over a century.
+url:
+baseurl: "/wadleigh"
+incremental: true
+
+# --------------------------------------------------------------
+# COLLECTION SETTINGS
+# --------------------------------------------------------------
+# Wax leverages Jekyll collections for much of its
+# functionality, therefor some of the keys below are from
+# Jekyll while others are Wax-specific.
+# For more info, refer to:
+# ~> https://jekyllrb.com/docs/collections/
+
+collections:
+  exhibits:
+    output: true
+  exh: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: "exh_item" # the layout for the pages to use
+    metadata:
+      source: "exh.csv" # path to the metadata file within `_data`
+    images:
+      source: "raw_images/exh" # path to the directory of images within `_data`
+  audio: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: "oh_item" # the layout for the pages to use
+    metadata:
+      source: "audio.csv" # path to the metadata file within `_data`
+    images:
+      source: "raw_images/audio" # path to the directory of images within `_data`
+  yb: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: "wyb" # the layout for the pages to use
+    metadata:
+      source: "yb.csv" # path to the metadata file within `_data`
+    images:
+      source: "raw_images/yb" # path to the directory of images within `_data`
+  exhsel: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: "exh_item" # the layout for the pages to use
+    metadata:
+      source: "exhsel.csv" # path to the metadata file within `_data`
+    images:
+      source: "raw_images/exhsel" # path to the directory of images within `_data`
+  video: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: "videooh" # the layout for the pages to use
+    metadata:
+      source: "video.csv" # path to the metadata file within `_data`
+    images:
+      source: "raw_images/video" # path to the directory of images within `_data`
+  documents: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: "documents" # the layout for the pages to use
+    metadata:
+      source: "documents.csv" # path to the metadata file within `_data`
+    images:
+      source: "raw_images/documents" # path to the directory of images within `_data`
+  
+# --------------------------------------------------------------
+# SEARCH INDEX SETTINGS
+# --------------------------------------------------------------
+# You can create multiple search indexes below (though only one is
+# recommended!) by specifying
+# an `index` file to write it to and some `collections` for it to index
+# and running `$ bundle exec rake wax:search` .
+
+search:
+  main:
+    index: "/search/index.json" # file the index will get written to
+    collections:
+      yb:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - label
+          - creator
+          - _tags
+          - _date
+          - source
+          - schoolsub
+      audio :
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - label
+          - _tags
+          - _date
+          - interviewer
+          - narrator
+
+
+# --------------------------------------------------------------
+# SITE MENU SETTINGS
+# --------------------------------------------------------------
+# Each menu item needs a `label` (whats shown), and a `link`
+# (where it goes). An item can optionally have a dropdown
+# submenu via `sub`.
+
+menu:
+  - label: "Collections"
+    sub: 
+      - label: "Oral Histories"
+        link: "/oralhistory/"
+      - label: "Yearbooks"
+        link: "/yearbooks/"
+      - label: "Documents"
+        link: "/documents/"
+  - label: "Exhibits"
+    sub:
+      - label: "Evelina López Antonetty: Education and Activism in the Puerto Rican Diaspora"
+        link: "/exhibits/lefty/"
+      - label: "Composers & Musicians: Musical Identity at Wadleigh In The 1930s & 40s"
+        link: "/exhibits/oshinsky/"
+      - label: "The War that Wadleigh Students Imagined"
+        link: "/exhibits/mayorga/"
+      - label: "Learning the Landscape: Deborah Lucas-Davis on Growing Up in Harlem"
+        link: "/exhibits/lewer/"
+      - label: "Back to the Futures of Wadleigh Students"
+        link: "/exhibits/cyna/"
+  - label: "Timeline"
+    link: "/timeline/"
+  - label: "Search"
+    link: "/search/"
+  - label: "About"
+    sub: 
+      - label: The Project
+        link: "/about/"
+      - label: "Learn More"
+        link: "/resources/"
+      - label: How to Cite and Terms of Use 
+        link: "/terms/"
