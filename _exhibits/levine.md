@@ -51,19 +51,154 @@ This list of homework requirements at Wadleigh also shows the presence of Black 
 
 [image Homework - Kinds of Homework - from Brunson papers]
 
-Ut eleifend lacus at erat efficitur bibendum. Ut laoreet elit nec dolor molestie finibus. Vivamus justo risus, scelerisque nec dolor ut, pretium fringilla purus. Nam nisl erat, tristique ac libero vitae, bibendum pellentesque nulla. Praesent accumsan ut mauris ut euismod. Etiam mattis a justo eget blandit. Aliquam vitae magna eget nisi suscipit finibus id sit amet nulla.
+This student-parent handbook has no date on it, but it also from the time Elfreda Wright was principal.  This means it is from sometime about 1971-1982. The handbook outlines all of the different classes offered at Wadleigh, serving more as a course guide than as a handbook.  Under the social studies page it outlines three main classes: American History, Urban Growth, and Ethnic Studies: An Appreciation for Cultural Origins.  Although no specific mention of Black history is made, it does mention that the Urban Studies class investigates the New York City area and relates directly back to the students’ lives. The class also looked looks at the history, geography, economics and politics of New York State, likely including the experiences and contributions of African Americans. The Ethnic Studies course also examines examples of different cultures in New York City. Studying diversity in New York City is another means of including Black history and multicultural studies in the social studies curriculum. 
 
-Nam velit leo, mattis ac dui non, vulputate porttitor sapien. Praesent in aliquet dui. Nulla facilisi. Maecenas nulla ex, facilisis non aliquet ac, ultrices eu sem. Sed vel aliquet urna. Mauris quis ex at lectus iaculis elementum id id massa. Integer luctus nulla vel tellus rutrum, ac pulvinar erat finibus. Aliquam erat volutpat. Pellentesque vel velit sit amet mauris dignissim feugiat.
+[image School handbook - social studies page]
+
+## I, Too, Sing America: Black Culture in the English Classroom
+
+[image - Brunson notes on Hughes' poem for a choral reading]
+
+Social studies classes were not the only spaces where Black history and culture were in the curriculum at Wadleigh.  From extensive examination of the lesson plans of long time English teacher Doris Brunson, archived at the Schomburg Center for Research in Black Culture of the New York Public Library, it is evident that Ms. Brunson included Black history, culture and literature in her classes.  Ms. Brunson included both fiction and nonfiction about African Americans.  She also focused on teaching Black poets such as Gwendolyn Brooks and Langston Hughes.  In addition, Ms. Brunson also arranged assemblies for Black History month and other times that focused on the important contributions of African Americans such as Martin Luther King Jr. and Langston Hughes. 	
+
+Ms. Brunson’s inclusion of Black history and literature in the English classroom relates back to what Lucille Spence argued for in 1954, the inclusion of Black studies across all subjects. Brunson had students read works by Black authors, providing students with examples of successful African Americans to look up to. Students could relate to the works of these authors, especially to Langston Hughes’s work, as  he writes about the experience of living in Harlem.  Students could think about how his writings were similar their own lives. These examples would help to give the Wadleigh students a positive self-image of the sort  the HARYOU report suggested.  The only caution in focusing on individual figures is that it creates the idea of the ‘hero narrative”.   It is important to celebrate the accomplishments of successful African Americans, but this cannot be the sole inclusion of Black history and culture. 
+
+## Lesson Plans
+
+Ms. Brunson's lesson plans include many examples of how she included Black history, culture and literature in her classroom.  Although she taught works such as David Copperfield, Animal Farm and at least six different Shakespeare plays, titles such as The AutoBbiography of Malcolm X and Adventures of Huckleberry Finn were also on her required reading list.  The lists seemed to change over time, with more Shakespeare and grammar exercises in earlier years.  
+
+[Added to expand on these texts] We don’t know why Ms. Brunson chose these texts or just how she taught them, but they likely illustrated stories or concepts that she wanted to bring into her classroom. Malcolm X’s autobiography provides students with insight into the life of a black male youth who got involved with criminal activity but, with mentorship from faith leaders, was redirected to become an influential role model and forceful advocate for holding America accountable to its principles of liberty and justice for all. Public controversy has followed Huckleberry Finn because of Mark Twain’s use of the black character, Jim, who is called by a racial slur in the novel, and depicted as subservient. The story gives students the opportunity to discuss different ways to view Jim’s actions within the context of his circumstances as a slave, and to consider if Jim acts out of dignity and pride or as an unwitting servant. 
+
+[Edits suggested here to explain more about the national context] Works written by and about African Americans became even more visible in Ms. Brunson’s lesson plans in the early and mid-1970s. This shift may have reflected broader currents of the time. In the late 1960s, a young generation of social activists became vocal about their frustration with the Civil Rights Movement that seemed too passive and too patient for social change to occur. These younger activists boldly expressed their racial pride and desire to identify with black power. Their desire for an increase in cultural and visual representations of their lives led to calls for more black literature. By the mid 1970s, mainstream and independent black publishers responded by creating a larger presence of history, poetry and fiction, written by and about African Americans. Among these new works were the novel, The Bluest Eye, by Toni Morrison’s, poetry books such as Riot by Gwendolyn Brooks, and Black Fire: An Anthology of African American Writing by editors Amiri Baraka and Larry Neal. These works were immediately popular with black readers and available for classroom study. 
+
+Ms. Brunson’s notes also include plans for students  to read biographies on different important figures in Black history such as Mahalia Jackson, Benjamin Banneker and Marian Anderson.  She lists page numbers, presumably from the class textbook.  To go with these readings, students needed to answer questions from the textbook and write paragraphs about the importance of these figures.  This shows that even in English class students were being exposed to the stories of important figures in Black history. 
+
+One of her assignments included a poetry project where students needed to pick 15 of their favorite poems.  They needed to make sure they included at least one by Shakespeare, but they also needed to make sure Black poets were represented in addition to white poets.  This assignment from the early 1970s is another example of Ms. Brunson featuring literature by Black poets in her classroom.  
+
+[Gallery?] 
+[image 8th grade required reading]
+
+[image 7th grade required reading, 1973/4]
+
+[image poem homework assignment] 
+
+[image Marion Anderson assignment in Lesson Plan]
+
+[image Mahalia Johnson Assignment]
+
+## Poems
+
+Ms. Brunson incorporated many pieces by African American poets into her lessons. Both typed and handwritten copies of these poems were included in the archive. She used these poems for “choral readings” when students read the poems out loud in class or in performances for others.  On the poems are marking indicating how the readings were divided between each member of the class.
+
+The poems Ms. Brunson used in her classroom were not only written by African American authors, but also addressed themes that would relate to the students’ lives.Many of the Langston Hughes poems described life in Harlem, where the students lived.  Other poems like “My Africa” by Ghanaian Poet Michael Dei-Amen focused more on Black history. The language used in this poem instills a sense of pride in African heritage. Not only does it teach African history, but it also contributes to developing pride in students’ identity. 
+
+Another poem that would increase students’ pride in their heritage is the Black National Anthem “Lift Every Voice and Sing”.  This piece was another example of a work used as a choral reading in Ms. Brunson’s class. Since this poem was known as the African American National Anthem, learning this at Wadleigh almost comes across as a political statement.  Studying this poem would teach students more about their identity, during a time when Black pride was blossoming.  The poems Ms. Brunson used in class not only introduced students to poetry, but also worked to build pride in their cultural identities.  
+
+[image Juke Box Love Song]
+
+[image Langston Hughes Poems]
+
+[image "We Real Cool"]
+
+[Image "My Africa" Poem]
+
+[Image Lift Ev'ry Voice and Sing]
+
+## Special Assemblies 
+
+Ms. Brunson did not only include Black history and literature in her classroom, she also planned programs for the Wadleigh community to celebrate the accomplishments of important Black figures.  These programs were usually for special occasions such as Black History Month.  Ms. Brunson organized these events with other faculty and staff to honor the works of these people.  These assemblies show learning happened outside of the individual classroom and with the greater Wadleigh community.  In May 1967, Ms. Brunson organized an assembly to honor the works of Langston Hughes for a memorial event.  This event included students reading his poems as well as showing a tape of Hughes reading his own poems.  Through an assembly like this, other students who did not have Ms. Brunson had the chance to learn about his poetry. 
+
+In addition to this memorial assembly, Ms. Brunson also organized Black History Month assemblies. In 1986, the Wadleigh principal Shirley Mayo, wrote Ms. Brunson a letter thanking her for organizing the event dedicated to Martin Luther King Jr.  in honor of Black History Month.  In 1989 the Advocate Resource Center sent Ms. Brunson a letter thanking her for participating in their Black History Month event.   These three correspondences demonstrate additional methods of teaching Black history, culture and literature in addition to the regular curriculum.  The one caveat with these assemblies is the perpetuation of only learning about Black history during these special assemblies. As Lucille Spence argued, it needs to be part of general curriculum not just as part of assemblies.  
+
+[Langston Hughes Assembly 1967]
+
+[Black History Month Celebration 1986] 
+
+[Black History Month 1989] 
+
+## Don't Believe the Hype: Celebration of Black History Month 
+
+[image Staff and student created tribute magazine in honor of black history month sumbitted Febuary 1989.]
+
+[image Introduction page for the timeline on the accomplishments and contributions of African Americans in the United States ]
+
+"The Tales of the Mighty Warrior" is a literary publication created by Wadleigh students in 1989.  The publication is a celebration of Black History Month.  It includes an introduction by the principal Shirley Mayo and other letters by the teachers at the school.  After the teacher letters “The Tales of the Mighty Warrior" is composed of student written biographies of Black men and women who made an important impact in history.  The second page of the book includes a list of the people included in the publication and the names of the students who wrote the biographies.  The text ends with a timeline of African American history.  
+
+[image - Mighty Warriors - table of contents ]
+
+[image - Shirley Mayo introduction]
+
+Shirley M. Mayo’s principal message is a reminder of why this publication celebrating Black History Month was needed.   Mayo spoke about the lack of appreciation for Black history, and encouraged students to use these stories to take pride in their history and in themselves.  This idea of teaching Black history to instill pride in students’ heritage was a major part of the campaigns to revise US history textbooks and include Black history in schools. 
+
+The controversy was often over which students should receive this history and how should it be done. In the book Whose American?, by Jon Zimmerman, he mentions how historian Carter G Woodson wrote textbooks specifically for Black history classes.  Although he agreed that ideally this history would be integrated into the narrative Woodson argued that could not be done until Black history was positively included into the history to begin with. As for what students should receive this history traditionally it was Black students who received any form of Black history. Although this was important to build pride in their past as the HARYOU report and Ms. Mayo argued, it was also important for other students to know about this history in order to develop tolerance as well as a full picture of American history.  The Tale of the Mighty Warriors is a good example of how students were demonstrating their pride in their history. 
+
+[image - James Baldwin Biography] 
+
+[image - More biography examples]
+
+[image - Thurgood Marshall biography]
+
+## The Tale of the Mighty Warriors Timeline 
+
+At the end of “Tale of the Mighty Warriors” publication is a timeline of accomplishments in African American history.  This timeline mostly focuses on the achievements and contributions of African Americans in the United States.  It also focuses on the process of African Americans achieving full citizenship in the United States and looks at the Abolition and Civil Rights movements. 
+
+This timeline starts in 1731 with the birth of Benjamin Banneker, a free Black man who made contributions in mathematics and science.  The timeline mostly focuses on people.  It lists the birthdates of African Americans such as Crispus Attucks, and also mentions how Attucks was the first person to die during the Boston Massacre in 1770.  In addition to listing many African American “firsts”, it also lists the creation of different organizations.  One of these was the first anti-slavery society, founded in Philadelphia in 1774 with Benjamin Franklin as the leader.  This timeline looks at the how African Americans gained freedom over the course of American history.  It lists that Vermont was the first state to abolish slavery in 1777 and that New York State abolished slavery in 1827. It includes both the legislation passed during reconstruction as well as the Voting Rights Act in 1965. This timeline mostly focused on all of the positives of African American history from Jesse Owen’s four gold medals at the Berlin Olympics to Gwendolyn Brooks Pulitzer prize.  The timeline ends in 1970 with Kenneth Gibson becoming the mayor of Newark. 
+
+[image timeline page 1] [include rest as single item]
+
+## States that Teach Black History: Wadleigh in Comparison 
+
+[image 1968 Ebony article featuing how Black history is taught in different states]
+
+At the end of the 1968 Ebony article expressing the need for Black history in schools, examined which states taught Black history and how this was done.  The different summaries of Black history in each state show a range of approaches for creating inclusive curriculums.  Some were state measures as in Colorado, where the Department of Education sent resources to schools with information on how to include the role of Black people in American history.  Others were more local efforts, as in Iowa where one high school created a class on Black studies at the demand of Black students.  Looking at the descriptions, it seems as though the trend is to create more inclusive materials.  This includes both revising textbook as well as including requirements to teach Black history? And histories of people of color?  history in the state curriculum.  
+
+It is interesting to see how each state adopted different measures to serve a similar purpose, and how part of this depends on the history of the state.  For example, the Department of Education in South Carolina issued schools A Guide for the Teaching of South Carolina’s History in Relationship to the United States.  South Carolina’s own history could change how Black history is taught.  Although these states were revising and providing supplemental materials, there is nothing to enforce the use of these materials in the classroom.  It is good to see that states were working on creating a more inclusive curriculum, but it is hard to know how individual schools followed through on this like Wadleigh did.  The New York summary stated that the Commissioner James E Allen requested the inclusion of minorities’ contributions in social studies classes, which aligns with the presence of an Ethnic Studies program at Wadleigh. 
+
+From looking at the yearbooks, handbooks, lesson plans and the Tale of the Mighty Warriors, it is evident that Black history was a part of the curriculum in Wadleigh. Both teachers and students were took pride in their history and demonstrated this pride by making it a central part of school. 
+
+## Historical Connections 
+
+The work of improving textbooks is a continuation of an effort that began even earlier.  The book Uncivil Rights by Jonna Perrillo discusses the effort of the Teachers Union in New York City to update the materials used in the classroom back in the 1940’s. These teachers thought about the idea of interculturalism and tried to incorporate a more inclusive curriculum. This push for interculturalism was also included in teacher education program such as at Teachers College. This allowed new Teacher in New York City schools to create more inclusive classrooms. 
+
+The Teachers Unions help workshops to help teachers make classroom texts more inclusive. The work of the Teachers Union was important in beginning the movement for more inclusive education in New York City. 
+In addition to the Teachers Union, Black authors worked on including their voices into the textbook. By writing their own textbooks, Black authors wanted to fix the inclusion in the narrative. Carter G Woodson and Langston Hughes wrote their own American history textbooks to include these stories. Writing these textbooks was a way that authors could directly add this voice to the narrative.
+
+## Sources
+
+### Archival Material 
+
+Wadleigh Way Yearbooks, Wadleigh Junior High School. 
+
+Wadleigh High School Collection, Schomburg Center for Research in Black Culture, New York Public Library. 
+
+### Primary Sources [check format]
+
+Harrison, CH. (1968). Black History and the Schools.  Ebony, December 111-117.
+
+Goals and Plans for Education in New York State, A Memorandum from the Commissioner of Education to the Board of Regents, August 1961. 
+
+Harlem Youth Opportunities Unlimited Inc. (1964) Youth in the Ghetto, A Study of the Consequences of Powerlessness and a Blueprint for Change. 
+
+### Seconary Sources [update for volume]
+
+ Johnson, L. (2004) A Generation of Women Activist. Journal of African American Histroy, 89. 223-240.
+
+ Johnson, L. (2002). “Making Democracy Real”. Urban Education, 37, 566-587.
+
+ Perrillo J. (2012). Uncivil Rights: Teachers, Unions and Race in the Battle of School Equity. University of Chicago Press.
+
+ Perrillo J.  Bringing Harlem to the School.  Unpublished paper.
+
+ Zimmerman, J. (2002) Whose America? Culture Wars in the Public Schools. Harvard University Press, Cambridge.
+
+
+
 
 {% include inline_image.html collection='qatar' pid='obj7' %}
 
-Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor. Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
 
-Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor. Quisque viverra sem a orci aliquet sodales. Aliquam commodo eros at sagittis vehicula. Quisque in massa turpis. Aliquam aliquam consectetur magna non dignissim. Sed fringilla a ligula vitae molestie.
-
-Duis finibus leo non velit viverra tincidunt. Fusce efficitur laoreet convallis. Sed sem felis, porttitor sit amet volutpat ac, consequat quis lectus. Donec elementum dignissim vehicula. Pellentesque fringilla ex bibendum, ornare sapien a, mollis neque. Duis faucibus diam vitae faucibus feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra elit sem, et euismod massa mattis ut. Phasellus maximus ipsum in nulla sollicitudin viverra. Morbi semper lectus quis dolor cursus, ut convallis lacus venenatis. Pellentesque lorem mauris, malesuada a fringilla et, iaculis sodales metus. Suspendisse finibus purus ut sem commodo feugiat.
 
 
 {% include inline_image.html collection='qatar' pid='obj2' %}
 
-Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor. Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
+
