@@ -1,0 +1,1018 @@
+---
+layout: none
+---
+{
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/wyb034_56638413.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638413.json",
+      "label": "Page 1",
+      "width": 2300,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638413/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638413.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638413/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638413",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1150,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638413.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638414.json",
+      "label": "Page 2",
+      "width": 2268,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638414/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638414.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638414/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638414",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1134,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638414.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638415.json",
+      "label": "Page 3",
+      "width": 2336,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638415/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638415.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638415/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638415",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1168,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638415.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638416.json",
+      "label": "Page 4",
+      "width": 2280,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638416/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638416.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638416/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638416",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1140,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638416.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638417.json",
+      "label": "Page 5",
+      "width": 2338,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638417/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638417.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638417/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638417",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1169,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638417.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638418.json",
+      "label": "Page 6",
+      "width": 2272,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638418/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638418.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638418/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638418",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1136,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638418.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638419.json",
+      "label": "Page 7",
+      "width": 2318,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638419/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638419.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638419/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638419",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1159,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638419.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638420.json",
+      "label": "Page 8",
+      "width": 2272,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638420/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638420.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638420/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638420",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1136,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638420.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638421.json",
+      "label": "Page 9",
+      "width": 2314,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638421/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638421.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638421/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638421",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1157,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638421.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638422.json",
+      "label": "Page 10",
+      "width": 2264,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638422/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638422.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638422/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638422",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1132,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638422.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638423.json",
+      "label": "Page 11",
+      "width": 2320,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638423/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638423.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638423/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638423",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1160,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638423.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638424.json",
+      "label": "Page 12",
+      "width": 2286,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638424/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638424.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638424/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638424",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1143,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638424.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638425.json",
+      "label": "Page 13",
+      "width": 2298,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638425/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638425.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638425/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638425",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1149,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638425.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638426.json",
+      "label": "Page 14",
+      "width": 2272,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638426/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638426.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638426/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638426",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1136,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638426.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638427.json",
+      "label": "Page 15",
+      "width": 2344,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638427/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638427.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638427/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638427",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1172,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638427.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638428.json",
+      "label": "Page 16",
+      "width": 2256,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638428/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638428.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638428/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638428",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1128,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638428.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638429.json",
+      "label": "Page 17",
+      "width": 2318,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638429/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638429.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638429/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638429",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1159,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638429.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638430.json",
+      "label": "Page 18",
+      "width": 2288,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638430/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638430.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638430/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638430",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1144,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638430.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638431.json",
+      "label": "Page 19",
+      "width": 2288,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638431/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638431.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638431/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638431",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1144,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638431.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638432.json",
+      "label": "Page 20",
+      "width": 2266,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638432/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638432.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638432/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638432",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1133,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638432.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638433.json",
+      "label": "Page 21",
+      "width": 2288,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638433/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638433.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638433/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638433",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1144,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638433.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638434.json",
+      "label": "Page 22",
+      "width": 2278,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638434/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638434.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638434/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638434",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1139,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638434.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638435.json",
+      "label": "Page 23",
+      "width": 2300,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638435/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638435.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638435/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638435",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1150,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638435.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638436.json",
+      "label": "Page 24",
+      "width": 2262,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638436/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638436.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638436/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638436",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1131,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638436.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638437.json",
+      "label": "Page 25",
+      "width": 2256,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638437/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638437.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638437/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638437",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1128,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638437.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638438.json",
+      "label": "Page 26",
+      "width": 2250,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638438/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638438.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638438/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638438",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1125,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638438.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638439.json",
+      "label": "Page 27",
+      "width": 2326,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638439/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638439.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638439/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638439",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1163,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638439.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638440.json",
+      "label": "Page 28",
+      "width": 2282,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638440/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638440.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638440/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638440",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1141,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638440.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638441.json",
+      "label": "Page 29",
+      "width": 2304,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638441/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638441.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638441/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638441",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1152,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638441.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638442.json",
+      "label": "Page 30",
+      "width": 2286,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638442/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638442.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638442/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638442",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1143,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638442.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638443.json",
+      "label": "Page 31",
+      "width": 2334,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638443/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638443.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638443/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638443",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1167,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638443.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638444.json",
+      "label": "Page 32",
+      "width": 2292,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638444/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638444.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638444/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638444",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1146,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638444.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638445.json",
+      "label": "Page 33",
+      "width": 2318,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638445/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638445.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638445/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638445",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1159,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638445.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638446.json",
+      "label": "Page 34",
+      "width": 2270,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638446/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638446.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638446/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638446",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1135,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638446.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638447.json",
+      "label": "Page 35",
+      "width": 2334,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638447/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638447.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638447/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638447",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1167,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638447.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638448.json",
+      "label": "Page 36",
+      "width": 2268,
+      "height": 3000,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638448/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wyb034_56638448.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638448/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wyb034_56638448",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1134,
+            "height": 1500
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wyb034_56638448.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}
