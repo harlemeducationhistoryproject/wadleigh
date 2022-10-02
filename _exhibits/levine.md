@@ -5,6 +5,7 @@ author: Melanie Levine
 publish_date: 2022-11-15
 permalink: /exhibits/levine/
 ---
+_This is an in-progress version an exhibit. It will not be published until it has been through peer review and revision._ 
 
 ## The Need for Inclusive Curriculum 
 
@@ -12,7 +13,7 @@ permalink: /exhibits/levine/
 
 _Our struggle has been not to get separate courses or to have one Negro History Week, but to get placing of the history and contribution of the Negro in every level of social studies, literature, and science wherever it naturally comes. We want this written into our courses of study for all the children of our city - to engender pride for the Negro child and appreciation for the white child."_ -Lucille Spence, Negro History Week Supplement, 1954 
 
-Lucille Spence, a biology teacher at the Wadleigh High School in Central Harlem beginning in the 1920s, was devoted to the integration of Black history in schools.  She worked with the New York Teachers Union to increase the presence of Negro history in the curriculum.   In 1935, Spence formed the Harlem Committee of the Teachers Union to improve the conditions of the schools.  This committee, later renamed the Anti-discrimination Committee, provided in-service workshops on Black history and race relations for teachers. The committee also created supplemental materials on Black history to distribute to schools throughout the country.  In addition the Teachers Union studied bias in New York City school textbooks.  These efforts ended when the organization disbanded in 1960.  However, the need for Black history in schools still remained.  
+Lucille Spence, a biology teacher at the Wadleigh High School in Harlem beginning in the 1920s, was devoted to the integration of Black history in schools.  She worked with the New York Teachers Union to increase the presence of Negro history in the curriculum.   In 1935, Spence formed the Harlem Committee of the Teachers Union to improve the conditions of the schools.  This committee, later renamed the Anti-discrimination Committee, provided in-service workshops on Black history and race relations for teachers. The committee also created supplemental materials on Black history to distribute to schools throughout the country.  In addition the Teachers Union studied bias in New York City school textbooks.  These efforts ended when the organization disbanded in 1960.  However, the need for Black history in schools still remained.  
 
 [Add a few sentence on the long history of advocacy for Black history.] 
 
