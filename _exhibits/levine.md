@@ -2,7 +2,7 @@
 layout: exhibit
 title: 'Voices of the Past: The Inclusion of Black History at Wadleigh'
 author: Melanie Levine
-publish_date: 2018-11-15
+publish_date: 2022-11-15
 permalink: /exhibits/levine/
 ---
 
