@@ -1,0 +1,45 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/card07_card07_1",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1070,
+  "height": 631,
+  "sizes": [
+    {
+      "width": 1070,
+      "height": 631
+    },
+    {
+      "width": 250,
+      "height": 147
+    },
+    {
+      "width": 1140,
+      "height": 672
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}
