@@ -14,11 +14,6 @@ The Wadleigh History Project is a collaborative public digital history project t
 
 {% include inline_image.html collection='exh' pid='wad001' %}
 
-### Coming Soon 
-
-Oral history interviews with Wadleigh alumni from the 1990s 
-
-New exhibit on teaching Black history at Wadleigh 
 
 
 
