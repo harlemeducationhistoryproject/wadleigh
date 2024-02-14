@@ -7,8 +7,6 @@ description: One Harlem school over 120 years.
 url:
 baseurl: "/wadleigh"
 incremental: true
-plugins:
-  - jekyll-target-blank
 
 # --------------------------------------------------------------
 # COLLECTION SETTINGS
