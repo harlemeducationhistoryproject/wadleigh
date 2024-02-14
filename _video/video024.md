@@ -10,9 +10,9 @@ interviewer: 'Wadleigh Secondary School student Emilly B. '
 narrator: Janice Simpson
 location: 'Virtual interview '
 transcript: https://docs.google.com/document/d/1ZRCFC8g4ITF-SAkylGVjy3trQoqIGk2oL2PNlj83S0o/edit?usp=sharing
-_tags: 'Wadleigh Scholars/A Better Chance, parents, home, PS 180, field trips, the
-  South, Special Progress (accelerated) classes, police, curriculum, glee club/chorus,
-  poetry, mental health, drugs and alcohol, racism '
+_tags: 'Wadleigh Scholars/A Better Chance, parents, home, PS 180, field trips, migration,
+  Special Progress (accelerated) classes, police, curriculum, glee club/chorus, poetry,
+  mental health, drugs and alcohol, racism '
 names: Henry Monroe, Edouard Plummer, René Lavergneau, Dorothy Fort, Mrs. Elzy, Diane
   McCarthy
 site: wad
@@ -21,4 +21,6 @@ _type: video
 order: '1'
 layout: videooh
 collection: video
+thumbnail: img/derivatives/simple/video024/thumbnail.jpg
+full: img/derivatives/simple/video024/fullwidth.jpg
 ---
