@@ -28,6 +28,24 @@ layout: default
 
 <div class='row card thumbnail-card'>
 
+<!-- The block below controls the image viewer -->
+
+  {% if page.image_viewer %}
+    {% assign viewer = page.image_viewer %}
+  {% elsif layout.image_viewer %}
+    {% assign viewer = layout.image_viewer %}
+  {% endif %}
+
+  {% if viewer %}
+        <div class='item-view w-100 mb-2' >
+          {% if viewer == 'openseadragon' %}
+            {% include osd_iiif_image_viewer.html manifest=page.manifest prevlink=prevlink nextlink=nextlink %}
+          {% else %}
+             {% include simple_image_viewer.html full_image=page.full prevlink=prevlink nextlink=nextlink %}
+          {% endif %}
+        </div>
+  {% endif %}
+
 <!-- The block below controls the embedded video table -->
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/{{ page.vimeoid }};badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" ></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
