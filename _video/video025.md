@@ -21,4 +21,6 @@ _type: video
 order: '0'
 layout: videooh
 collection: video
+thumbnail: img/derivatives/simple/video025/thumbnail.jpg
+full: img/derivatives/simple/video025/fullwidth.jpg
 ---
