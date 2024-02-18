@@ -2,7 +2,7 @@
 layout: exhibit
 title: 'Wadleigh: Evolution of the Arts and Culture'
 author: Justin Clarke, Tahjay Lee, and Ebony Ramirez
-publish_date: 2023
+publish_date: 2023-05-01
 permalink: /exhibits/evolution/
 ---
 
@@ -17,5 +17,3 @@ permalink: /exhibits/evolution/
 
 This multimedia project was created during the 2023 Wadleigh Youth Media Fellowship at the [Teachers College Digital Futures Institute](https://www.tc.columbia.edu/digitalfuturesinstitute/) with support from [Morningside Area Alliance](https://morningside-alliance.org/) and the Teachers College Zankel Fellowship. 
 
-
-{% include inline_image.html collection='qatar' pid='obj2' %}
