@@ -13,7 +13,7 @@ The Wadleigh History Project is a collaborative public digital history project t
 
 _This is work in progress, most recently updated in February 2024_. 
 
-
+{% include inline_image.html collection='exh' pid='wad001' %}
 
 
 
