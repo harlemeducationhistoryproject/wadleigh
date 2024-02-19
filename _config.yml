@@ -82,9 +82,21 @@ search:
           - creator
           - _tags
           - _date
-          - source
-          - schoolsub
+          - school
       audio :
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - label
+          - _date
+          - interviewer
+          - narrator
+      exh : 
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - label
+          - _date
+          - creator
+      video :
         content: true # whether or not to index page content
         fields: # the metadata fields to index
           - label
@@ -92,6 +104,12 @@ search:
           - _date
           - interviewer
           - narrator
+      documents :
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - label
+          - creator
+          - _date
 
 
 # --------------------------------------------------------------
