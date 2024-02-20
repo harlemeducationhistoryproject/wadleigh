@@ -2,7 +2,7 @@
 layout: exhibit
 title: 'Wadleigh through the Decades'
 author: Janet Aguilar, Kendy Guzman, and Kaila Watson, with Ebony Ramirez, Shantal Sosa, and Leneir Taylor
-publish_date: 2023
+publish_date: 2023-05-01
 permalink: /exhibits/decades/
 ---
 
@@ -14,6 +14,3 @@ permalink: /exhibits/decades/
 ## Credits
 
 This multimedia project was created during the 2023 Wadleigh Youth Media Fellowship at the [Teachers College Digital Futures Institute](https://www.tc.columbia.edu/digitalfuturesinstitute/) with support from [Morningside Area Alliance](https://morningside-alliance.org/) and the Teachers College Zankel Fellowship. 
-
-
-{% include inline_image.html collection='qatar' pid='obj2' %}
