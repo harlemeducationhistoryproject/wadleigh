@@ -16,5 +16,3 @@ permalink: /exhibits/responses/
 
 This multimedia project was created during the 2023 Wadleigh Youth Media Fellowship at the [Teachers College Digital Futures Institute](https://www.tc.columbia.edu/digitalfuturesinstitute/) with support from [Morningside Area Alliance](https://morningside-alliance.org/) and the Teachers College Zankel Fellowship. 
 
-
-
