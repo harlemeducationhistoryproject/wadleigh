@@ -510,6 +510,58 @@ layout: none
     "lunr_id": 38
   },
   {
+    "pid": "wyb040",
+    "label": "The Owl [June 1944]",
+    "creator": "Wadleigh High School",
+    "_date": "June 1944",
+    "_tags": "student writing, photographs ",
+    "school": "Wadleigh High School for Girls",
+    "collection": "yb",
+    "thumbnail": "/img/derivatives/iiif/images/wyb040_00/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/yb/wyb040",
+    "lunr_id": 39
+  },
+  {
+    "pid": "wyb041",
+    "label": "The Owl [January 1946]",
+    "creator": "Wadleigh High School",
+    "_date": "January 1946",
+    "_tags": "student writing, photographs ",
+    "school": "Wadleigh High School for Girls",
+    "collection": "yb",
+    "thumbnail": "/img/derivatives/iiif/images/wyb041_00/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/yb/wyb041",
+    "lunr_id": 40
+  },
+  {
+    "pid": "wyb042",
+    "label": "The Owl [June 1946]",
+    "creator": "Wadleigh High School",
+    "_date": "June 1946",
+    "_tags": "student writing, photographs ",
+    "school": "Wadleigh High School for Girls",
+    "collection": "yb",
+    "thumbnail": "/img/derivatives/iiif/images/wyb042_00/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/yb/wyb042",
+    "lunr_id": 41
+  },
+  {
+    "pid": "wyb043",
+    "label": "The Owl [June 1949]",
+    "creator": "Wadleigh High School",
+    "_date": "June 1949",
+    "_tags": "student writing, photographs ",
+    "school": "Wadleigh High School for Girls",
+    "collection": "yb",
+    "thumbnail": "/img/derivatives/iiif/images/wyb043_00/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/yb/wyb043",
+    "lunr_id": 42
+  },
+  {
     "pid": "wadoh001",
     "label": "Shelly Reed Oral History",
     "_date": "April 6, 2016",
@@ -519,7 +571,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/wadoh001/thumbnail.jpg",
     "content": " ",
     "permalink": "/audio/wadoh001",
-    "lunr_id": 39
+    "lunr_id": 43
   },
   {
     "pid": "wadoh002",
@@ -531,7 +583,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/wadoh002/thumbnail.jpg",
     "content": " ",
     "permalink": "/audio/wadoh002",
-    "lunr_id": 40
+    "lunr_id": 44
   },
   {
     "pid": "wadoh004",
@@ -543,7 +595,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/wadoh004/thumbnail.jpg",
     "content": " ",
     "permalink": "/audio/wadoh004",
-    "lunr_id": 41
+    "lunr_id": 45
   },
   {
     "pid": "wadoh005",
@@ -555,7 +607,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/wadoh005/thumbnail.jpg",
     "content": " ",
     "permalink": "/audio/wadoh005",
-    "lunr_id": 42
+    "lunr_id": 46
   },
   {
     "pid": "wadoh006",
@@ -567,7 +619,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/wadoh006/thumbnail.jpg",
     "content": " ",
     "permalink": "/audio/wadoh006",
-    "lunr_id": 43
+    "lunr_id": 47
   },
   {
     "pid": "wadoh008",
@@ -579,7 +631,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/wadoh008/thumbnail.jpg",
     "content": " ",
     "permalink": "/audio/wadoh008",
-    "lunr_id": 44
+    "lunr_id": 48
   },
   {
     "pid": "wadoh009",
@@ -591,7 +643,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/wadoh009/thumbnail.jpg",
     "content": " ",
     "permalink": "/audio/wadoh009",
-    "lunr_id": 45
+    "lunr_id": 49
   },
   {
     "pid": "wadoh010",
@@ -603,7 +655,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/wadoh010/thumbnail.jpg",
     "content": " ",
     "permalink": "/audio/wadoh010",
-    "lunr_id": 46
+    "lunr_id": 50
   },
   {
     "pid": "wadoh011",
@@ -615,7 +667,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/wadoh011/thumbnail.jpg",
     "content": " ",
     "permalink": "/audio/wadoh011",
-    "lunr_id": 47
+    "lunr_id": 51
   },
   {
     "pid": "wadoh012",
@@ -627,7 +679,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/wadoh012/thumbnail.jpg",
     "content": " ",
     "permalink": "/audio/wadoh012",
-    "lunr_id": 48
+    "lunr_id": 52
   },
   {
     "pid": "wadoh013",
@@ -639,7 +691,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/wadoh013/thumbnail.jpg",
     "content": " ",
     "permalink": "/audio/wadoh013",
-    "lunr_id": 49
+    "lunr_id": 53
   },
   {
     "pid": "wadoh014",
@@ -651,7 +703,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/wadoh014/thumbnail.jpg",
     "content": " ",
     "permalink": "/audio/wadoh014",
-    "lunr_id": 50
+    "lunr_id": 54
   },
   {
     "pid": "cyn024",
@@ -662,7 +714,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/cyn024/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/cyn024",
-    "lunr_id": 51
+    "lunr_id": 55
   },
   {
     "pid": "cyn025",
@@ -673,7 +725,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/cyn025/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/cyn025",
-    "lunr_id": 52
+    "lunr_id": 56
   },
   {
     "pid": "cyn026",
@@ -684,7 +736,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/cyn026/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/cyn026",
-    "lunr_id": 53
+    "lunr_id": 57
   },
   {
     "pid": "cyn027",
@@ -695,7 +747,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/cyn027/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/cyn027",
-    "lunr_id": 54
+    "lunr_id": 58
   },
   {
     "pid": "cyn028",
@@ -706,7 +758,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/cyn028/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/cyn028",
-    "lunr_id": 55
+    "lunr_id": 59
   },
   {
     "pid": "cyn029",
@@ -717,7 +769,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/cyn029/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/cyn029",
-    "lunr_id": 56
+    "lunr_id": 60
   },
   {
     "pid": "cyn030",
@@ -728,7 +780,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/cyn030/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/cyn030",
-    "lunr_id": 57
+    "lunr_id": 61
   },
   {
     "pid": "cyn031",
@@ -739,7 +791,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/cyn031/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/cyn031",
-    "lunr_id": 58
+    "lunr_id": 62
   },
   {
     "pid": "cyn032",
@@ -750,7 +802,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/cyn032/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/cyn032",
-    "lunr_id": 59
+    "lunr_id": 63
   },
   {
     "pid": "cyn033",
@@ -761,7 +813,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/cyn033/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/cyn033",
-    "lunr_id": 60
+    "lunr_id": 64
   },
   {
     "pid": "cyn034",
@@ -772,7 +824,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/cyn034/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/cyn034",
-    "lunr_id": 61
+    "lunr_id": 65
   },
   {
     "pid": "lef001",
@@ -783,7 +835,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef001/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef001",
-    "lunr_id": 62
+    "lunr_id": 66
   },
   {
     "pid": "lef002",
@@ -794,7 +846,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef002/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef002",
-    "lunr_id": 63
+    "lunr_id": 67
   },
   {
     "pid": "lef003",
@@ -805,7 +857,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef003/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef003",
-    "lunr_id": 64
+    "lunr_id": 68
   },
   {
     "pid": "lef004",
@@ -816,7 +868,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef004/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef004",
-    "lunr_id": 65
+    "lunr_id": 69
   },
   {
     "pid": "lef005",
@@ -827,7 +879,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef005/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef005",
-    "lunr_id": 66
+    "lunr_id": 70
   },
   {
     "pid": "lef006",
@@ -838,7 +890,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef006/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef006",
-    "lunr_id": 67
+    "lunr_id": 71
   },
   {
     "pid": "lef007",
@@ -849,7 +901,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef007/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef007",
-    "lunr_id": 68
+    "lunr_id": 72
   },
   {
     "pid": "lef008",
@@ -860,7 +912,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef008/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef008",
-    "lunr_id": 69
+    "lunr_id": 73
   },
   {
     "pid": "lef009",
@@ -871,7 +923,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef009/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef009",
-    "lunr_id": 70
+    "lunr_id": 74
   },
   {
     "pid": "lef010",
@@ -882,7 +934,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef010/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef010",
-    "lunr_id": 71
+    "lunr_id": 75
   },
   {
     "pid": "lef011",
@@ -893,7 +945,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef011/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef011",
-    "lunr_id": 72
+    "lunr_id": 76
   },
   {
     "pid": "lef012",
@@ -904,7 +956,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef012/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef012",
-    "lunr_id": 73
+    "lunr_id": 77
   },
   {
     "pid": "lef013",
@@ -915,7 +967,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef013/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef013",
-    "lunr_id": 74
+    "lunr_id": 78
   },
   {
     "pid": "lef014",
@@ -926,7 +978,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef014/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef014",
-    "lunr_id": 75
+    "lunr_id": 79
   },
   {
     "pid": "lef015",
@@ -937,7 +989,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef015/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef015",
-    "lunr_id": 76
+    "lunr_id": 80
   },
   {
     "pid": "lef016",
@@ -948,7 +1000,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef016/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef016",
-    "lunr_id": 77
+    "lunr_id": 81
   },
   {
     "pid": "lef017",
@@ -959,7 +1011,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef017/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef017",
-    "lunr_id": 78
+    "lunr_id": 82
   },
   {
     "pid": "lef018",
@@ -970,7 +1022,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef018/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef018",
-    "lunr_id": 79
+    "lunr_id": 83
   },
   {
     "pid": "lef019",
@@ -981,7 +1033,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef019/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef019",
-    "lunr_id": 80
+    "lunr_id": 84
   },
   {
     "pid": "lef021",
@@ -992,7 +1044,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef021/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef021",
-    "lunr_id": 81
+    "lunr_id": 85
   },
   {
     "pid": "lef022",
@@ -1003,7 +1055,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef022/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef022",
-    "lunr_id": 82
+    "lunr_id": 86
   },
   {
     "pid": "lef023",
@@ -1014,7 +1066,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef023/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef023",
-    "lunr_id": 83
+    "lunr_id": 87
   },
   {
     "pid": "lef024",
@@ -1025,7 +1077,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef024/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef024",
-    "lunr_id": 84
+    "lunr_id": 88
   },
   {
     "pid": "lef026",
@@ -1036,7 +1088,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef026/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef026",
-    "lunr_id": 85
+    "lunr_id": 89
   },
   {
     "pid": "lef027",
@@ -1047,7 +1099,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef027/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef027",
-    "lunr_id": 86
+    "lunr_id": 90
   },
   {
     "pid": "lef028",
@@ -1058,7 +1110,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef028/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef028",
-    "lunr_id": 87
+    "lunr_id": 91
   },
   {
     "pid": "lef029",
@@ -1069,7 +1121,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef029/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef029",
-    "lunr_id": 88
+    "lunr_id": 92
   },
   {
     "pid": "lef030",
@@ -1080,7 +1132,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef030/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef030",
-    "lunr_id": 89
+    "lunr_id": 93
   },
   {
     "pid": "lef031",
@@ -1091,7 +1143,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lef031/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lef031",
-    "lunr_id": 90
+    "lunr_id": 94
   },
   {
     "pid": "lev001",
@@ -1102,7 +1154,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev001/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev001",
-    "lunr_id": 91
+    "lunr_id": 95
   },
   {
     "pid": "lev002",
@@ -1113,7 +1165,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev002/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev002",
-    "lunr_id": 92
+    "lunr_id": 96
   },
   {
     "pid": "lev003",
@@ -1124,7 +1176,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev003/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev003",
-    "lunr_id": 93
+    "lunr_id": 97
   },
   {
     "pid": "lev004",
@@ -1135,7 +1187,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev004/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev004",
-    "lunr_id": 94
+    "lunr_id": 98
   },
   {
     "pid": "lev005",
@@ -1146,7 +1198,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev005/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev005",
-    "lunr_id": 95
+    "lunr_id": 99
   },
   {
     "pid": "lev006",
@@ -1157,7 +1209,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev006/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev006",
-    "lunr_id": 96
+    "lunr_id": 100
   },
   {
     "pid": "lev007",
@@ -1168,7 +1220,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev007/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev007",
-    "lunr_id": 97
+    "lunr_id": 101
   },
   {
     "pid": "lev008",
@@ -1179,7 +1231,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev008/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev008",
-    "lunr_id": 98
+    "lunr_id": 102
   },
   {
     "pid": "lev009",
@@ -1190,7 +1242,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev009/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev009",
-    "lunr_id": 99
+    "lunr_id": 103
   },
   {
     "pid": "lev010",
@@ -1201,7 +1253,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev010/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev010",
-    "lunr_id": 100
+    "lunr_id": 104
   },
   {
     "pid": "lev011",
@@ -1212,7 +1264,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev011/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev011",
-    "lunr_id": 101
+    "lunr_id": 105
   },
   {
     "pid": "lev012",
@@ -1223,7 +1275,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev012/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev012",
-    "lunr_id": 102
+    "lunr_id": 106
   },
   {
     "pid": "lev013",
@@ -1234,7 +1286,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev013/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev013",
-    "lunr_id": 103
+    "lunr_id": 107
   },
   {
     "pid": "lev014",
@@ -1245,7 +1297,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev014/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev014",
-    "lunr_id": 104
+    "lunr_id": 108
   },
   {
     "pid": "lev015",
@@ -1256,7 +1308,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev015/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev015",
-    "lunr_id": 105
+    "lunr_id": 109
   },
   {
     "pid": "lev016",
@@ -1267,7 +1319,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev016/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev016",
-    "lunr_id": 106
+    "lunr_id": 110
   },
   {
     "pid": "lev017",
@@ -1278,7 +1330,7 @@ layout: none
     "thumbnail": "Img/derivatives/simple/lev017/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lev017",
-    "lunr_id": 107
+    "lunr_id": 111
   },
   {
     "pid": "lew001",
@@ -1289,7 +1341,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lew001/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lew001",
-    "lunr_id": 108
+    "lunr_id": 112
   },
   {
     "pid": "lew002",
@@ -1300,7 +1352,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lew002/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lew002",
-    "lunr_id": 109
+    "lunr_id": 113
   },
   {
     "pid": "lew003",
@@ -1311,7 +1363,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lew003/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lew003",
-    "lunr_id": 110
+    "lunr_id": 114
   },
   {
     "pid": "lew004",
@@ -1322,7 +1374,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lew004/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lew004",
-    "lunr_id": 111
+    "lunr_id": 115
   },
   {
     "pid": "lew005",
@@ -1333,7 +1385,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lew005/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lew005",
-    "lunr_id": 112
+    "lunr_id": 116
   },
   {
     "pid": "lew006",
@@ -1344,7 +1396,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lew006/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lew006",
-    "lunr_id": 113
+    "lunr_id": 117
   },
   {
     "pid": "lew007",
@@ -1355,7 +1407,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lew007/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lew007",
-    "lunr_id": 114
+    "lunr_id": 118
   },
   {
     "pid": "lew008",
@@ -1366,7 +1418,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lew008/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lew008",
-    "lunr_id": 115
+    "lunr_id": 119
   },
   {
     "pid": "lew011",
@@ -1377,7 +1429,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lew011/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lew011",
-    "lunr_id": 116
+    "lunr_id": 120
   },
   {
     "pid": "lew012",
@@ -1388,7 +1440,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lew012/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lew012",
-    "lunr_id": 117
+    "lunr_id": 121
   },
   {
     "pid": "lew013",
@@ -1399,7 +1451,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lew013/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lew013",
-    "lunr_id": 118
+    "lunr_id": 122
   },
   {
     "pid": "lew014",
@@ -1410,7 +1462,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lew014/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lew014",
-    "lunr_id": 119
+    "lunr_id": 123
   },
   {
     "pid": "lew015",
@@ -1421,7 +1473,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lew015/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lew015",
-    "lunr_id": 120
+    "lunr_id": 124
   },
   {
     "pid": "lew016",
@@ -1432,7 +1484,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/lew016/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/lew016",
-    "lunr_id": 121
+    "lunr_id": 125
   },
   {
     "pid": "may001",
@@ -1443,7 +1495,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/may001/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/may001",
-    "lunr_id": 122
+    "lunr_id": 126
   },
   {
     "pid": "may003",
@@ -1454,7 +1506,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/may003/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/may003",
-    "lunr_id": 123
+    "lunr_id": 127
   },
   {
     "pid": "may004",
@@ -1465,7 +1517,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/may004/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/may004",
-    "lunr_id": 124
+    "lunr_id": 128
   },
   {
     "pid": "may005",
@@ -1476,7 +1528,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/may005/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/may005",
-    "lunr_id": 125
+    "lunr_id": 129
   },
   {
     "pid": "may006",
@@ -1487,7 +1539,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/may006/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/may006",
-    "lunr_id": 126
+    "lunr_id": 130
   },
   {
     "pid": "may007",
@@ -1498,7 +1550,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/may007/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/may007",
-    "lunr_id": 127
+    "lunr_id": 131
   },
   {
     "pid": "may017",
@@ -1509,7 +1561,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/may017/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/may017",
-    "lunr_id": 128
+    "lunr_id": 132
   },
   {
     "pid": "osh006",
@@ -1520,7 +1572,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/osh006/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/osh006",
-    "lunr_id": 129
+    "lunr_id": 133
   },
   {
     "pid": "osh008",
@@ -1531,7 +1583,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/osh008/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/osh008",
-    "lunr_id": 130
+    "lunr_id": 134
   },
   {
     "pid": "osh009",
@@ -1542,7 +1594,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/osh009/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/osh009",
-    "lunr_id": 131
+    "lunr_id": 135
   },
   {
     "pid": "osh010",
@@ -1553,7 +1605,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/osh010/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/osh010",
-    "lunr_id": 132
+    "lunr_id": 136
   },
   {
     "pid": "wad001",
@@ -1564,7 +1616,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/wad001/thumbnail.jpg",
     "content": " ",
     "permalink": "/exh/wad001",
-    "lunr_id": 133
+    "lunr_id": 137
   },
   {
     "pid": "video024",
@@ -1577,7 +1629,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/video024/thumbnail.jpg",
     "content": " ",
     "permalink": "/video/video024",
-    "lunr_id": 134
+    "lunr_id": 138
   },
   {
     "pid": "video025",
@@ -1590,7 +1642,7 @@ layout: none
     "thumbnail": "img/derivatives/simple/video025/thumbnail.jpg",
     "content": " ",
     "permalink": "/video/video025",
-    "lunr_id": 135
+    "lunr_id": 139
   },
   {
     "pid": "card01",
@@ -1601,7 +1653,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/card01/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/documents/card01",
-    "lunr_id": 136
+    "lunr_id": 140
   },
   {
     "pid": "card02",
@@ -1612,7 +1664,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/card02_card02_1/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/documents/card02",
-    "lunr_id": 137
+    "lunr_id": 141
   },
   {
     "pid": "card03",
@@ -1623,7 +1675,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/card03_card03_1/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/documents/card03",
-    "lunr_id": 138
+    "lunr_id": 142
   },
   {
     "pid": "card04",
@@ -1634,7 +1686,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/card04_card04_1/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/documents/card04",
-    "lunr_id": 139
+    "lunr_id": 143
   },
   {
     "pid": "card05",
@@ -1645,7 +1697,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/card05_card05_1/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/documents/card05",
-    "lunr_id": 140
+    "lunr_id": 144
   },
   {
     "pid": "card06",
@@ -1656,7 +1708,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/card06_card06_1/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/documents/card06",
-    "lunr_id": 141
+    "lunr_id": 145
   },
   {
     "pid": "card07",
@@ -1667,6 +1719,6 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/card07_card07_1/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/documents/card07",
-    "lunr_id": 142
+    "lunr_id": 146
   }
 ]
