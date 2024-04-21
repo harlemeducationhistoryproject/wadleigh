@@ -42,7 +42,7 @@ Ernest Morrell, founding co-director of the Harlem Education History Project, gu
 
 Karen D. Taylor's model of local Black history as recognition and advocacy, through her organization [While We Are Still Here](https://whilewearestillhere.org/), is an inspiring model. 
 
-This site was developed by Ansley Erickson with extensive and extraordinary technical and design support from Alex Gil and Aliasger Kiranwala for Griffon Web Studios. Some of the digital exhibits included here were originally published on the [Harlem Education History Project](www.harlemeducationhistory.library.columbia.edu/collection), which operated from 2014 to 2021 on the Omeka platform witih Neatline plug-ins, supported by the Columbia University Libraries. 
+This site was developed by Ansley Erickson with extensive and extraordinary technical and design support from Alex Gil and Aliasger Kiranawala for Griffon Web Studios. Some of the digital exhibits included here were originally published on the [Harlem Education History Project](www.harlemeducationhistory.library.columbia.edu/collection), which operated from 2014 to 2021 on the Omeka platform witih Neatline plug-ins, supported by the Columbia University Libraries. 
 
 Digital exhibits included here were created by their authors in classes at Teachers College. They were revised through an open peer review process designed by Esther Cyna. Cyna, Rachel Klepper, and Lisa Monroe edited exhibits prior to publication.
 

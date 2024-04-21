@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: timeline
 title: Timeline
-gallery: True
+gallery: False
 permalink: /timeline/
 ---
 
