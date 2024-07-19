@@ -7,8 +7,7 @@ permalink: /terms/
 
 ### How to Cite 
 
-Please cite all materials here as follows: 
-“Page Title,” in Wadleigh History Project, Accessed [Month Day, Year], URL. 
+If you reference material from this website, we ask that you credit the project and include a url to the page being referenced and date of access. Please cite all materials here using this format: “Page Title,” in Wadleigh History Project, Accessed [Month Day, Year], URL. 
 
 ### Copyright 
 
