@@ -5,12 +5,4 @@ gallery: True
 permalink: /resources/
 ---
 
-EH Johnson chapter 
-
-Wadleigh 
-
-Amsterdam News 
-
-Link to Zotero on history of ed in Harlem 
-
-HEHP website 
+Resources to learn more about the history of Wadleigh and of education in Harlem, coming soon. 
