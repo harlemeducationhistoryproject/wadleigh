@@ -58,10 +58,5 @@ This site uses [Wax](https://minicomp.github.io/wax/), a minimal computing ([min
 
 This site uses the colors gold, black, and royal blue to reflect Wadleigh's school colors throughout its history. When the Wadleigh High School for Girls opened in its Harlem location in 1902, the school's colors were gold and royal blue. From the late 1950s to the late 1990s, when Wadleigh was a Junior High School and today, as the Wadleigh Secondary School for the Performing and Visual Arts, the school's colors are gold and black. 
 
-### Terms of Use 
-
-Please cite all materials here as follows: 
-“Page Title,” in Wadleigh History Project, Accessed [Month Day, Year], URL.
-
 
 
