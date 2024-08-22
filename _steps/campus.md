@@ -1,15 +1,15 @@
 ---
 title: From One School to Multiple Schools  
 date: 1997-01-01 00:00:00 -0700
-enddate: 2000
+enddate:
 ---
 
 ![IMAGE]()
 
-In the 1990s and 2000s, New York City divided many of its larger high schools into smaller schools, or separate programs or houses within larger schools. Each smaller school or program offered its own focus area or theme, and students and families would choose which one suited them best. 
+In the 1990s and 2000s, New York City divided many of its larger schools into smaller schools, or separate programs or houses within larger schools. Each smaller school or program offered its own focus area or theme, and students and families would choose which one suited them best.
 
-When Wadleigh opened after the 1997 renovation, students attended one of three separate houses within Wadleigh Secondary School: Scholars and Writers Academy, [arts?], and [math and science?]. 
+Wadleigh was reconfigured into separate small schools as well. There were three schools, each with a special academic focus: writing and publishing, science and technology, and the arts. During the 1994-1997 renovation, these schools operated in temporary spaces. Then in 1997 they moved into the historic Wadleigh building.
 
-Starting in 2004, two separate, fully independent schools operated within the Wadleigh building: Wadleigh Secondary School for the Visual and Performing Arts, and Frederick Douglass Academy II. 
+The separate schools faced challenges in sustaining enrollment, and soon were combined into one secondary school.
 
-[](Link)
+[Norm Fruchter on New York City Small Schools](https://steinhardt.nyu.edu/metrocenter/new-york-citys-small-schools)
