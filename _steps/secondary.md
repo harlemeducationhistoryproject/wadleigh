@@ -4,7 +4,7 @@ date: 2000-09-01 00:00:00 -0700
 enddate: 
 ---
 
-![]()
+![Students at Wadleigh Secondary present a gallery of art work](https://github.com/harlemeducationhistoryproject/wadleigh/tree/main/assets/timeline_img/WadleighSecondary.png)
 
 Wadleigh Secondary School for the Performing and Visual Arts opened in 2000.
 
