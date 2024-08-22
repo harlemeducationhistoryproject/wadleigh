@@ -4,7 +4,9 @@ date: 2011-09-01 00:00:00 -0700
 enddate: 2018-09-01 
 ---
 
+
 ![Wadleigh alumni, parents, students, and teachers rally in front of the school to oppose a 2018 proposal to close the middle school grades.](https://github.com/harlemeducationhistoryproject/wadleigh/blob/main/assets/timeline_img/RallyagainstClosure.jpg)
+
 
 In the 2010s, as charter schools expanded in Harlem and New York City while district public schools saw declining enrollment, the Department of Education twice proposed to close Wadleigh's middle-school grades, which they called "truncation" but which many community members saw as a step toward closing the school overall. Education officials said that closing the middle school grades was needed to address low enrollment at the school (with fewer than 100 students in the 3 middle-school grades) and low academic performance as measured on standardized math and reading tests.
 
