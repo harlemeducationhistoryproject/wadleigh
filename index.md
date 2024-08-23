@@ -13,13 +13,13 @@ The Wadleigh History Project is a collaborative public digital history project t
 
 _This is work in progress, most recently updated in July 2024_. 
 
-{### [Yearbooks](/yearbooks)
+### [Yearbooks](/yearbooks)
 
 Explore Wadleigh yearbooks from 1908 through 1987
 
 {% include parallax_image.html collection='yb' pid='wyb022' y='50%' %}
 
-### Oral histories(/oralhistory)
+### [Oral histories](/oralhistory)
 
 Listen to Wadleigh alumni and former teachers recount their stories of the school.
 
