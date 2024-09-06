@@ -11,13 +11,22 @@ layout: home
 
 The Wadleigh History Project is a collaborative public digital history project to recognize, document, and teach the 120-year history of Black students, teachers, and community members at Harlem's Wadleigh High School (1902-1954), Wadleigh Junior High School (1954-1993), and Wadleigh Secondary School for the Performing and Visual Arts (1997-present).
 
-_This is work in progress, most recently updated in July 2024_. 
+_This is work in progress, most recently updated in August 2024_.
 
-{% include inline_image.html collection='exh' pid='wad001' %}
+### [Yearbooks](/yearbooks)
 
+Explore Wadleigh yearbooks from 1908 through 1987
 
+{% include parallax_image.html collection='yb' pid='wyb022' y='50%' %}
 
+### [Oral histories](/oralhistory)
 
+Listen to Wadleigh alumni and former teachers recount their stories of the school.
 
+{% include parallax_image.html collection='audio' pid='wad0h010' y='50%' %}
 
+### Exhibits
 
+Use the menu above to learn more about Wadleigh over time.
+
+{% include parallax_image.html collection='exh' pid='cyn025' y='50%' %}

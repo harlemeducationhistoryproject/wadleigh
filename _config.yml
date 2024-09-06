@@ -134,12 +134,12 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: "Collections"
+  - label: "Yearbooks" 
+    link: /yearbooks/
+  - label: "More Sources"
     sub: 
       - label: "Oral Histories"
         link: "/oralhistory/"
-      - label: "Yearbooks"
-        link: "/yearbooks/"
       - label: "Documents"
         link: "/documents/"
   - label: "Exhibits"
