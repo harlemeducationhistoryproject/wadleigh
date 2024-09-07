@@ -4,9 +4,7 @@ date: 1954-09-01 00:00:00 -0700
 enddate: 1993-06-01 00:00:00 -0700
 ---
 
-
-![Cover photograph from Wadleigh's 1960 yearbook](https://github.com/harlemeducationhistoryproject/wadleigh/blob/main/assets/timeline_img/1960WadleighWay.jpg)
-
+![Cover photograph from Wadleigh's 1960 yearbook](/assets/timeline_img/1960WadleighWay.jpg)
 
 After being closed for two years for a renovation, the Wadleigh building reopened in the fall of 1954 as Wadleigh Junior High School (or JHS 88, later IS 88, in some records). The school served both boys and girls from Harlem.
 
