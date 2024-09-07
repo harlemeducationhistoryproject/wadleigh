@@ -4,7 +4,7 @@ date: 1902-09-01 00:00:00 -0700
 enddate: 1954-06-01 00:00:00 -0700
 ---
 
-![Black and white photo of Wadleigh's Gothic-style exterior in 1903](https://upload.wikimedia.org/wikipedia/commons/b/be/Wadleigh_High_School_for_Girls%2C_1903.jpg)
+![Black and white photo of Wadleigh's Gothic-style exterior in 1903](/assets/timeline_img/114thSt.jpeg)
 
 New York City's separate boroughs - Brooklyn, Manhattan, the Bronx, Queens, and Staten Island - consolidated to form a single city, and a single school system, in 1898. The consolidated city government planned a group of new high school buildings, including a new school for girls. Architect C.B. Snyder designed a new building for Wadleigh High School for Girls, and located it on a part of the block formed by 114th and 115th St, 7th Avenue, and 8th Avenue in Harlem. The neo-gothic building had an imposing Gothic tower and new innovations like an elevator and central ventilation.
 
@@ -18,4 +18,4 @@ Wadleigh's enrollment declined over the 1940s and 1950s, and the Board of Educat
 
 [Explore yearbooks from Wadleigh High School for Girls](https://www.wadleighhistory.org/yearbooks/)
 
-[Read exhibits about Wadliegh High School for Girls](https://www.wadleighhistory.org/)
+[Read exhibits about Wadliegh High School for Girls](https://www.wadleighhistory.org/exhibitshome)
