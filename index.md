@@ -27,6 +27,6 @@ Listen to Wadleigh alumni and former teachers recount their stories of the schoo
 
 ### Exhibits
 
-Use the menu above to learn more about Wadleigh over time.
+Browse exhibits above to learn more about Wadleigh over time.
 
 {% include parallax_image.html collection='exh' pid='cyn025' y='50%' %}
