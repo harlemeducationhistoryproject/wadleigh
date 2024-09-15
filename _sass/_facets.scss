@@ -241,8 +241,8 @@ footer {
     }
 
     a:hover {
-      text-decoration: underline;
-      color: $dark-background;
+      color: $light-text;
+      text-decoration: none;
     }
   }
 }
