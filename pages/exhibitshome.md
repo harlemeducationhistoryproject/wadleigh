@@ -54,6 +54,6 @@ _by Brittney Lewer, a PhD student at New York University_
 
 ### [The War that Wadleigh Students Imagined](/exhibits/mayorga/)
 
-_by Teachers College PhD student Rodrigo Mayorga_
+_by Rodrigo Mayorga, a Teachers College PhD student_
 
 {% include inline_image.html collection='exhsel' pid='may011' %}
