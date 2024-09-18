@@ -232,17 +232,17 @@ footer {
   .parallax-caption {
     margin: 0 auto;
     width: 100%;
-    background-color: $medium-background;
+    background-color: $light-background;
     padding: 1rem;
     a {
-      color: $light-background;
-      font-weight: 700;
+      color: $dark-text;
+      font-weight: 400;
       text-decoration: none;
     }
 
     a:hover {
-      text-decoration: underline;
-      color: $dark-background;
+      color: $light-text;
+      text-decoration: none;
     }
   }
 }
