@@ -2,14 +2,14 @@
 <html lang="{{ page.lang | default: site.lang | default: " en" }}">
 {%- include head.html -%}
 <!-- FOR TIMELINE -->
-<!--<link href='{{ "/assets/css/materialize.min.css" |  absolute_url }}' rel="stylesheet">-->
+<link href='{{ "/assets/css/materialize.min.css" |  absolute_url }}' rel="stylesheet">
 <link href='{{ "/assets/css/main.css" |  absolute_url}}' rel="stylesheet">
 <body>
     {%- include header.html -%}
     <main class="page-content" aria-label="Content">
         <div class="wrapper">
             <div class="row">
-                <div class="col-lg-8 col-md-10 mx-auto">
+                
                     {% capture _LINE_FEED %}
                     {% endcapture %}{% if site.compress_html.ignore.envs contains jekyll.environment %}{{ content }}{%
                     else %}{% capture
@@ -97,7 +97,7 @@
                                             <td>clippings
                                             <td>{{ _profile_clippings }}{% endif %}
                                 </table>{% endif %}{% endif %}
-                </div>
+                
             </div>
         </div>
     </main>
