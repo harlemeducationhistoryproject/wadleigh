@@ -24,13 +24,13 @@ Putting Weldon's description right next to Smith's makes it seem like Harlem exp
 
 The Great Depression touched all of the United States, but some communities were more affected than others. Harlem was one of these. Racist labor practices explain why African Americans were more likely to be unemployed during the Depression: according to historian Cheryl Greenberg, in 1930, 1 in 10 individuals in the U.S. employed population were left without work. In the same year the numbers were 1 in 6 in New York City and 1 in 4 within Harlem's African American population (3). Consequently, living conditions in Harlem declined severely in the first years of the Depression. Providing some relief became part of the work of community organizations and churches. The Abyssinian Baptist Church and its pastor Adam Clayton Powell, Sr., for example, played a key role in feeding and clothing Harlem's poor. A group of church leaders - under the direction of Reverend Shelton Hale Bishop - were also responsible for organizing the Harlem Cooperating Committee on Relief and Unemployment, which started to function in 1930.
 
-{% include inline_image.html collection='exh' pid='may001' %}
+{% include simple_image_viewer.html collection='exh' pid='may001' %}
 
 This shift was central for the process of politicization that Harlem would experience in the following years. Historians may disagree on how long it took for this help to be effective, but the consensus is that the New Deal 'freed' social organizations from the energy-consuming work of providing relief to those affected by the Depression (4). Political activity was certainly not new in Harlem, but government-provided relief allowed community leaders to focus more on the long-running campaign for employment opportunity for African Americans. The Don't Buy Where You Can't Work campaign employed a series of strategies - like pickets and boycotts - and became a strong example of the new forms of political organization that had started to appear in post-Depression Harlem. Success at increasing local black employment took more than a decade, but by 1944, most of salespeople in Harlem were African American (5).
 
 Tensions in Harlem also manifested in more violent ways. On March 19, 1935, rumors that a young boy had been badly beaten by the police after shoplifting a penknife at a store on 125th street ignited a riot that ended up with 5 deaths and more than $500,000 in property damage (6). The riot led Mayor La Guardia to appoint an investigative team to research and study the structural issues that had caused it. La Guardia decided not to make their report public. Nonetheless, a copy of it was leaked and published in The Amsterdam News on July 18, 1936.
 
-{% include inline_image.html collection='exhsel' pid='may002' %}
+{% include simple_image_viewer.html collection='exhsel' pid='may002' %}
 
 The 136-pages document reported in detail about the housing, educational, health and security conditions experienced by African Americans in Harlem. It concluded that the "first and more fundamental problem of the Negro citizen of Harlem is the economic problem" (p.122) and that racial discrimination in employment was the key social factor keeping "the Negro worker in the ranks of unskilled laborers and a state of perpetual dependency" (p.123).
 
@@ -56,11 +56,11 @@ _"The defense council has jurisdiction over air-raid precautions. A committee on
 
 The following articles show some of the changes schools experienced during World War II, and how schools responded. The newspapers reported about the war from the perspective of teachers and administrators in New York City schools.
 
-{% include inline_image.html collection='exh' pid='may003' %}
+{% include simple_image_viewer.html collection='exh' pid='may003' %}
 
-{% include inline_image.html collection='exh' pid='may004' %}
+{% include simple_image_viewer.html collection='exh' pid='may004' %}
 
-{% include inline_image.html collection='exh' pid='may005' %}
+{% include simple_image_viewer.html collection='exh' pid='may005' %}
 
 #### _Reflection Questions_
 
@@ -76,13 +76,13 @@ Founded in 1897 and located on West 114th Street in Harlem since 1902, Wadleigh 
 
 Mayor LaGuardia's Commission report found that Harlem schools were overcrowded and in poor shape. “One needs only to enter one of these schools” the report said “to be made aware of its age which is reflected in its shabbiness, its unsanitary condition, and its antiquated architecture” (1). Many Harlem families and educators understood these inequalities to be the result of racial discrimination, which was evident in the curriculum and opportunities for students as well. After the report publicly exposed these issues, the Teachers Union established a Harlem Committee to face them. The Committee - led by Alice Citron and Lucile Spence - was the basis for the Permanent Committee for Better Schools in Harlem (2). The Permanent Committee was led by Reverend John W. Robinson as chairman, and Lucile Spence as secretary, and had several successes in the following years, like making the city to build two new schools in Harlem (3).
 
-{% include inline_image.html collection='exh' pid='may006' %}
+{% include simple_image_viewer.html collection='exh' pid='may006' %}
 
 Lucile Spence was a biology teacher at Wadleigh since 1926. She was one of the first African Americans hired at this high school and had an important role in the New York's Teachers Union (4). Through her, Wadleigh became part of the struggle to improve education in Harlem. But Wadleigh illustrated the problem, too. The LaGuardia Commission's report explicitly denounced racial discrimination at Wadleigh, where Spence remained one of only a very few black teachers. The school's physical conditions were not ideal either. Wadleigh's building - praised by The New York Times in 1903 as "the finest high school building in the world" - was 35 years later denounced by the Permanent Committee for Better Schools in Harlem as a poorly equipped forty-year old structure. A campaign to raise funds for the school was organized in the context of the school 40th anniversary but without major success.
 
 A historical institution in New York City, Wadleigh High School got attention from some important newspapers, like The New York Times or The Amsterdam News. In them one can read part of its history and realize how Wadleigh could not avoid the tensions and challenges Harlem was facing in those days.
 
-{% include inline_image.html collection='exh' pid='may007' %}
+{% include simple_image_viewer.html collection='exh' pid='may007' %}
 
 #### _Reflection Questions_
 
@@ -90,11 +90,11 @@ _What characteristics of Wadleigh High School can you deduce from the two newspa
 
 The challenges their community was facing were not unknown to Wadleigh students. In “Harlem’s Neighbors,” a piece published in the January 1938 issue of Wadleigh's yearbook, three students denounced that poverty was dominant in lower Harlem but it was fought by neighbors who shared what they had with each other. The text also ended on a hopeful note:
 
-{% include inline_image.html collection='exhsel' pid='may008' %}
+{% include simple_image_viewer.html collection='exhsel' pid='may008' %}
 
-{% include inline_image.html collection='exhsel' pid='may009' %}
+{% include simple_image_viewer.html collection='exhsel' pid='may009' %}
 
-{% include inline_image.html collection='exhsel' pid='may010' %}
+{% include simple_image_viewer.html collection='exhsel' pid='may010' %}
 
 "'Good fences make good neighbors,' but the proof of true neighborliness and humanity would be no fences at all. Harlem neighbors, people from all parts of the world who have taken root here, have within them the seeds of brotherliness, love of liberty, joy in the beautiful. These seeds are sprouting and the trees which spring from them will some day offer shade and comfort to thousand".
 
@@ -108,23 +108,23 @@ In the context of World War II (and particularly after the U.S. entered it in De
 
 In this section of the exhibit, we invite you to explore a selection of the material published in these yearbooks during the war years.
 
-{% include inline_image.html collection='yb' pid='wyb012' %}
+{% include simple_image_viewer.html collection='yb' pid='wyb012' %}
 
 _The Owl_ issue of January 1942, published about a month after the Japanese attack on the US base at Pearl Harbor, was the first to be explicitly dedicated to World War II. It was titled “Four Freedoms Issue” and included a lot of patriotic and wartime visual symbols - like the American eagle and flag in the cover. The issue also featured some informative articles, that intended to teach students about the 'slang' used in the Army and Navy and how soldiers spent their days when in camps.
 
-{% include inline_image.html collection='yb' pid='wyb013' %}
+{% include simple_image_viewer.html collection='yb' pid='wyb013' %}
 
 With slightly less intensity than the previous one, _The Owl_ issue of June 1942 maintained its wartime rhetoric. Its tone was more optimistic - the issue's theme was “Thumbs Up!” – and it located the U.S. war efforts in the context of a shared task of the "United Nations." A section with this title included different world leaders’ declarations about the war, from De Gaulle and Churchill to Pandit Nehru and the Mexican minister Luis Quintanilla. The section also included a summary of The Atlantic Charter signed by Roosevelt and Churchill, and stated that all these were “messages of unity and faith in the ultimate victory of democracy over fascism.”
 
-{% include inline_image.html collection='exhsel' pid='may011' %}
+{% include simple_image_viewer.html collection='exhsel' pid='may011' %}
 
 The June 1942 edition of _The Owl_ featured a poem by student Cecilia Violenes that pointed directly at the contradictions faced by black Americans fighting in World War II. While black soldiers were committed to their duty as soldiers, they also recognized the reality of racism at home and abroad - as the U.S. military remained segregated, for example. They fought, as Violenes put it, "a double battle." Her language resonated with national civil rights organizations' calls for a "Double V," victory over racism at home and abroad.
 
-{% include inline_image.html collection='yb' pid='wyb014' %}
+{% include simple_image_viewer.html collection='yb' pid='wyb014' %}
 
 _The Owl_ issue of June 1943 explicitly addressed the role of women in the war. Its main theme was "Women go to War" and the cover showed a woman working in a factory. The graphic symbolism was repeated several times: women dressed in working, nursing and farming outfits were spread along the yearbook, one of them even accompanied by the American flag and the caption "Join our Land Army." An informative piece about the WAVES program for training girls to be "radio operators, aviation machinists mates, yeomen, parachute riggers, etc." contributed to the same idea, as a letter from Eleanor Roosevelt to Wadleigh students did. In it, the First Lady invited them to work where they were needed. “In times of war”, the letter said “everyone has an obligation to do the best work one is capable of doing”.
 
-{% include inline_image.html collection='exhsel' pid='may012' %}
+{% include simple_image_viewer.html collection='exhsel' pid='may012' %}
 
 _The Owl_ had traditionally published the senior class song, always composed by Wadleigh students. Starting in 1942, it also published other student-composed songs. Many of them had patriotic and wartime themes.  It is unclear whether these songs were produced in the context of a school assignment or simply by the students' initiative, although different students' composing songs with the same topic – like the “Marche Motives inspired by the Tunisian Campaign” published in 1943 – suggest they were somehow the result of formal school activities.
 
@@ -144,7 +144,7 @@ In this section we want to invite you to explore how time impacted the way Wadle
 
 In _The Owl_ of January, 1935, the fictional character Alice wonders around Wadleigh and meets some of its seniors. One of them, of Austrian ancestry, is called 'Nazi'. The use of the nickname is the first mention of the regime in Germany in _The Owl_, and its casualness hints at what American discourse did or did not emphasize at the time.
 
-{% include inline_image.html collection='exhsel' pid='may013' %}
+{% include simple_image_viewer.html collection='exhsel' pid='may013' %}
 
 #### _Imagining the Past_
 
@@ -154,7 +154,7 @@ Student writing in _The Owl_ shows how the past was important to how Wadleigh st
 
 Before World War II, the clearest example of a global conflict Wadleigh students had was World War I. In the agitated decades of the 1930s and 1940s, they used it as an imaginative resource for understanding the tensions and conflicts they were witnessing, but also to present their hopes and fears about it.
 
-{% include inline_image.html collection='exhsel' pid='may018' %}
+{% include simple_image_viewer.html collection='exhsel' pid='may018' %}
 
 Three pieces, "Shell Game" and "Friends and Enemies," were published before the war started (in [_The Owl_ June 1936]({{wadleighhistory.org}}/yb/wyb004) and [January 1939]({{wadleighhistory.org}}/yb/wyb009) issues). Both short stories have at their center a friendship between an American and a German soldiers during World War I. Although the pieces follow opposite directions - one is the story of two enemy soldiers who become friends, while the other is the story of two childhood friends who end up fighting in different sides and finally meet again - they share elements like the spaces of the trench and of New York City as places for encounter between apparent enemies. The pieces reflect a perspective about war as something absurd and that divides people who otherwise should be united, even against their own will and desires.
 
@@ -174,7 +174,7 @@ When the last faint blow of the bugle dies.
 
 Many Wadleigh students were born and raised in the U.S. Although many wanted to travel outside of the country, only some of them had the opportunity to do it. These experiences were surely less intense than those of who had lived abroad for an extended amount of time, but the impact they had in these students' memories and how they would later imagine what was going on with World War II should not be overlooked.
 
-{% include inline_image.html collection='exhsel' pid='may019' %}
+{% include simple_image_viewer.html collection='exhsel' pid='may019' %}
 
 In selections from the "Who's Who?" section of _The Owl_, some senior students are profiled and their trips outside of the U.S. are briefly recounted. ([January 1937]({{wadleighhistory.org}}/yb/wyb005), [January 1938]({{wadleighhistory.org}}/yb/wyb008), and [January 1939]({{wadleighhistory.org}}/yb/wyb009) issues) A student's chronicle titled "Bird's Eye View of Europe" published in the [January 1937 issue]({{wadleighhistory.org}}/yb/wyb005) is particularly interesting, not only for the detailed narration of the student's trip around France, Italy, and Germany, but because of her acute political analysis of the European context. Reading her reflections, one cannot help but wondering how these past experiences informed the way in which she imagined World War II only two years after her trip, and how different her imagination was compared to that of her peers who did not have the opportunity - and the privilege - of traveling abroad.
 
@@ -188,7 +188,7 @@ Pieces from _The Owl_ points to this particular dimension of students' past. The
 
 Being the daughter of immigrants was certainly not an exceptional experience, both in New York City and Wadleigh. Their parents' immigration histories likely impacted the way these students imagined the conflictual international atmosphere and the war it gave birth to.
 
-{% include inline_image.html collection='exhsel' pid='may020' %}
+{% include simple_image_viewer.html collection='exhsel' pid='may020' %}
 
 Two pieces were published in the [January 1931 issue of _The Owl_]({{wadleighhistory.org}}/yb/wyb001). Although World War II was far from starting then, they are examples of Wadleigh students' connections with Europe through their parents' past experiences. In "Norwegian Notes" a student talks about their Norwegian parents' traditions and costumes, while in "The Land of Opportunity" another student tells the history of her father, his escape from Czarist Russia and how he became a Workers Union leader in the U.S. The pride these texts reflect shows how their heritage mattered to these students identities, and helps us when imagining how they felt about the events happening in their parents' homelands.
 
@@ -206,13 +206,13 @@ Students learned about the war through several different mechanisms, from newspa
 
 In its January 1942 issue, _The Owl_ published “Letters from Camp.” This section included what seemed to be personal letters from soldiers stationed all around the U.S. and even overseas. We do not know if these letters were real; they might have been written by students, during a class exercise. These letters either reflect or fueled the imagination of Wadleigh High School students, leading them to think about the everyday life of soldiers and their personal thoughts and feelings in the context of the war.
 
-{% include inline_image.html collection='exhsel' pid='may014' %}
+{% include simple_image_viewer.html collection='exhsel' pid='may014' %}
 
-{% include inline_image.html collection='exhsel' pid='may015' %}
+{% include simple_image_viewer.html collection='exhsel' pid='may015' %}
 
 Sometimes letters came from people even closer to the Wadleigh community. In its June 1943 issue, _The Owl_ published a letter from a Wadleigh former student - "our own Ensign Wilson," _The Owl_ declared. Addressed to "All My Friends at Wadleigh" the letter had the seal of the WAVES program and was presented in front of an article describing the daily life of the women enrolled in it. The letter intended to work as an emotional anchor, allowing the students to imagine the experience of other women who were participating in the war through this program.
 
-{% include inline_image.html collection='exhsel' pid='may016' %}
+{% include simple_image_viewer.html collection='exhsel' pid='may016' %}
 
 Wadleigh students learned about the war around the world in many different ways. This knowledge was important in how they imagined what was going on, but their concerns and desires were essential too.
 
@@ -299,7 +299,7 @@ Wadleigh students’ imagination of World War II was not only related to certain
 
 The map below shows the different places Wadleigh students imagined through the pages of _The Owl_.
 
-{% include inline_image.html collection='exh' pid='may017' %}
+{% include simple_image_viewer.html collection='exh' pid='may017' %}
 
 World War II had Wadleigh students imagining places all over the world and thinking about the global connections between these.
 

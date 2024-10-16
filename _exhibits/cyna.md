@@ -7,7 +7,7 @@ permalink: /exhibits/cyna/
 ---
 
 
-{% include inline_image.html collection='exh' pid='cyn025' %}
+{% include simple_image_viewer.html collection='exh' pid='cyn025' %}
 
 
 ## Introduction
@@ -21,11 +21,11 @@ The exhibit mainly draws from the 1960s issues of _The Wadleigh Way_, the school
 
 #### The Door is Open: Metaphors about Student Futures
 
-{% include inline_image.html collection='exhsel' pid='cyn035' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn035' %}
 
 The cover of the 1967 _Wadleigh Way_ features a photograph of the entrance gates. The image of an open door often symbolizes a sense of opportunity. Open doors evoke future possibilities, as several references to doors and gates throughout the yearbooks suggest. A collage that features Wadleigh’s doorway, drawn from student art in the 1965 and 1966 yearbooks appears throughout the exhibit as a reminder of this theme.
 
-{% include inline_image.html collection='exhsel' pid='cyn019' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn019' %}
 
 In the 1964 _Wadleigh Way_, on the second page, the principal, Perry Spiro, spins that metaphor in his “Message From The Principal” to the graduating students:
 
@@ -53,19 +53,19 @@ Student contributions to the yearbook illustrate preparation, ambition, and imag
 
 ## Ambition
 
-{% include inline_image.html collection='exh' pid='cyn027' %}
+{% include simple_image_viewer.html collection='exh' pid='cyn027' %}
 
 A significant amount of student writing in the 1960s yearbooks dealt with students' ideas about their individual futures. Whether in the form of reflections about the short-term future at Wadleigh, the prospect of going to high school, or possible future careers, students expressed ideas of growth and progress in various, original, and creative ways. Through theater plays, short texts, or personal reflections, some students at Wadleigh left a trace of their visions. The material featured in this exhibit ranges from very concrete considerations to very abstract inquiries about the future, and articulate the relationship between education, employment and success at different levels.
 
 In 1965, the _Wadleigh Way_ described the concrete relationship between vocational training at Wadleigh and future employment opportunities.
 
-{% include inline_image.html collection='exhsel' pid='cyn003' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn003' %}
 
 The idea that education provided qualifications that led to employment was a message that the administration at Wadleigh strongly reinforced. Yet it was one of the many, sometimes competing perspectives on the role of education that students navigated in Harlem at the time.
 
 Students also pondered the distant future in more notional ways. In the 1967 yearbook, two pages were devoted to short student texts in a section called “Some Letters to God.” In the letters, students asked questions about days to come: “Will I be rich or poor?” “When will the races gain equality?”
 
-{% include inline_image.html collection='exhsel' pid='cyn004' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn004' %}
 
 This material sheds light on the particular context of the 1960s, with the uncertainty and hopes that surrounded student experiences, with its particular depth in Harlem. As the "Letters to God" highlight, the experiences of racial discrimination during the civil rights movements pervade student writing, in ways that illuminate how students generated ideas about future possibilities, and sought to shape the future of their school, their neighborhood, and world. The rich and vibrant student thinking and writing evidenced in the material presented in this exhibit provides a sharp contrast with the then-dominant perspective of Harlem and its schools in terms of deficit. With varying degrees of direct engagement with the societal reality of discrimination and segregation, student writing at Wadleigh during the 1960s provide insight into the wide array of perspectives on the role of education for students of color in the context of 1960s Harlem.
 
@@ -74,7 +74,7 @@ This material sheds light on the particular context of the 1960s, with the uncer
 
 "When a student first enters Wadleigh and is a little bit frightened, he looks forward to three years of growing and developing into a future citizen of our community." Denise Warner, a 9th-grade student at Wadleigh, who was therefore in the graduating class of 1967, wrote about the journey on which students embark when they enter Wadleigh. The drawing that accompanies the short text emphasizes the sense of progress that characterizes Denise Warner's interpretation of her time at Wadleigh.
 
-{% include inline_image.html collection='exhsel' pid='cyn015' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn015' %}
 
 The author highlights the importance of planning one's future during the last year of the typical Wadleigh Junior High School student experience that she describes: "A grade that he thought would mean fun and excitement now means looking far ahead and making important decisions."
 
@@ -97,14 +97,14 @@ African American mobilization can be traced back to the 1930s, as _Civil Rights 
 
 This particular analysis of the 1960s job market situation is consistently echoed in the yearbooks, especially when we consider how the administration, teaching staff and guidance counselors communicated messages about the importance of schooling to the students at Wadleigh.
 
-{% include inline_image.html collection='exhsel' pid='cyn012' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn012' %}
 
 
 #### What Makes Harry Run?
 
 In February 1965, students from class 8-313 traveled to their future to perform an original play called "What Makes Harry Run?" in front of an audience of fellow Wadleigh students. The play was set during the imaginary class of ‘66 reunion of "Hardley J.H.S.," and Mamie L. Anderson, the student who tells "The Story Of A Play," makes it clear that the plot revolved around the Wadleigh student actors, who played their own characters as adults in an undetermined future.
 
-{% include inline_image.html collection='exhsel' pid='cyn014' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn014' %}
 
 Initially, Ms. Brunson, the official teacher of class 8-313, had asked the students to "give a play about Brotherhood." Students received this with very little enthusiasm according to Mamie L. Anderson: "Everyone’s heart sank. Certainly Brotherhood is an interesting and essential topic, but it’s ever so common.”
 
@@ -119,17 +119,17 @@ Although the yearbook does not detail the content of the play, and what the stud
 
 ## Imagination
 
-{% include inline_image.html collection='exh' pid='cyn034' %}
+{% include simple_image_viewer.html collection='exh' pid='cyn034' %}
 
 Several pages in each of the 1960s Wadleigh yearbooks display the creativity of students through fiction writing. Students were encouraged to envision the future by using their imagination, and a significant amount of student writing and student drawings relates to traveling in outer space. The context of the 1960s space race between the Soviet Union and the United States had a tremendous influence on the imaginary worlds of Americans during that time.<sup>1</sup>
 
 Below are two examples of student texts about the world of tomorrow. In 1967, eighth-grade student Elizabeth Laguer wrote a beautifully crafted short story about the fictive adventures of an astronaut at a time when mankind had been living on the Moon for two centuries.
 
-{% include inline_image.html collection='exhsel' pid='cyn005' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn005' %}
 
 In 1974, the _Wadleigh Way_ presented a story by George Johnson, an eighth-grade student, who speculated on the future of Harlem in 2001. You can see how the topics addressed in the yearbooks shifted from space to technology after the decade considered in this exhibit.
 
-{% include inline_image.html collection='exhsel' pid='cyn006' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn006' %}
 
 
 #### Ghost Ship, 2084
@@ -138,9 +138,9 @@ The various student texts that revolve around themes of space adventures reveal 
 
 The emphasis on literary work was a tradition at Wadleigh. Earlier yearbooks from the 1930s and 1940s, at a time when Wadleigh was an all-girls school, are full of short stories and poems by talented students, and that tradition continued throughout the years, which suggests that teachers at Wadleigh attached significant importance to writing, and encouraged students to use their imagination. Yet the themes and topics shifted in relationship to the changing context in which the pieces were produced.
 
-{% include inline_image.html collection='exhsel' pid='cyn007' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn007' %}
 
-{% include inline_image.html collection='exhsel' pid='cyn008' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn008' %}
 
 #### My Trip to the Moon
 
@@ -148,11 +148,11 @@ Traveling to the Moon is a theme that often comes back in _Wadleigh Way _yearboo
 
 Two examples featured below allow us to delve into the imagination of junior high school students at Wadleigh. The first piece is an extract from the 1966 yearbook, and the second one is from the 1967 yearbook. You can take this opportunity to read the stories that Mary Smith and Diane Bishop imagined and skillfully crafted in 1966 and 1967 respectively.
 
-{% include inline_image.html collection='exhsel' pid='cyn009' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn009' %}
 
-{% include inline_image.html collection='exhsel' pid='cyn010' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn010' %}
 
-{% include inline_image.html collection='exhsel' pid='cyn011' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn011' %}
 
 #### John’s Dreams
 
@@ -160,7 +160,7 @@ In the 1963 Wadleigh Way, a student in eighth grade wrote about "a typical high 
 
 This poem is a fascinating example of how Wadleigh students such as Michael Menzies, the author of the story, thought creatively about how young people can approach future possibilities with great determination. Yet the story simultaneously raises questions about the representation of student ideas in yearbooks. What relationship did the author have with the subject matter? Was the author a student who was similar to John Fry, or did the writer jokingly portray one of her or his classmates? The roster in the 1963 yearbook suggests that there was no John Fry at Wadleigh, but the author could have been inspired by one of his classmates.
 
-{% include inline_image.html collection='exhsel' pid='cyn021' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn021' %}
 
 Moreover, the description of John Fry as the "typical junior high school boy" shows the limitations of yearbooks as historical sources when it comes to representing the student population as a whole. Perhaps some students would have disagreed with the idea that the John Fry story was, in fact, typical. Or perhaps, in the context of the school in 1963, the students could readily understand what the author meant, and to whom he was referring.
 
@@ -173,7 +173,7 @@ The great imagination of students at Wadleigh, the literary quality and creativi
 
 ## Preparation
 
-{% include inline_image.html collection='exh' pid='cyn029' %}
+{% include simple_image_viewer.html collection='exh' pid='cyn029' %}
 
 Although it focuses primarily on student voices, this exhibit also explores the role of teachers and guidance counselors in preparing students for the future, through the Wadleigh yearbooks as well as through oral history interviews with former teachers. Adult discourse and action spoke about and shaped how students approached their future and the future of their world. This multi-faceted preparation included preparing students for their academic future (via counseling, the ABC program, and more), but also their professional future, and general life trajectory in a society that was rapidly changing, and in which discrimination and segregation still structured many aspects of life. The presentation and representation of various aspects of the preparation at Wadleigh give us some insight into how the school's mission was articulated in relationship with concepts of present and future.
 
@@ -194,7 +194,7 @@ The description of "Have Diploma, Will Succeed" gives us insight as to how stude
 
 Moreover, the conclusion of Diane Shelby's text stresses the relationship between schooling and future possibilities, that is to say between getting an education, and becoming a successful adult: “In this highly geared world of today, more and more highly skilled persons are needed. America's best natural resource is its young people, its only brain supply. So finish high-school, finish college if possible. You'll be glad you did." Several pieces in the yearbooks echo this message about the importance of schooling and reinforce this specific interpretation of what schools did in the context of intense segregation and discrimination.
 
-{% include inline_image.html collection='exhsel' pid='cyn013' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn013' %}
 
 The mention of a "ne'er-do-well" family, which provides a contrast to the "industrious, respectable Negro family" resonates with ideas of respectability, which have a long history in Harlem. The text also raises questions about whose voice we are hearing here--that of students, or students producing an expected institutionally-encouraged message?
 
@@ -219,13 +219,13 @@ At the beginning of each yearbook, the principal at Wadleigh wrote a text addres
 
 Because of the symbolic meaning of graduation – a transition towards a new era in one's life – the texts provide a reflection on the future of Wadleigh students. The principal often uses references to the state of the world, in terms of social changes, politics, and shifting ideas. The purpose of the messages was to inspire graduates to actively participate in the shaping of their future world. You can read excerpts from those opening messages below:
 
-{% include inline_image.html collection='exhsel' pid='cyn016' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn016' %}
 
 In this message, Mr. Spiro emphasizes the pivotal role that young people play in shaping the future world. The principal stresses his view of the role that education plays in the the realization of a better society.
 
 > >Each of us can have a part in building tomorrow. It will be a good tomorrow, made ever finer by our understanding of democratic ways of living. It will be a world in which each educated person will do more and have more. And the key to 'more' is the education each of us receives. As more people are better educated, we will make greater use of our new ideas to benefit all. We can look forward to a time when all people work together to give each life greater dignity and richer happiness. [...] Wadleigh Junior High School has tried to prepare you to enter this changing world. You now have the skills you will need to continue your education. You have learned something of what our country has done and is trying to do. You have had experience in making democratic decisions and in carrying them out.
 
-{% include inline_image.html collection='exhsel' pid='cyn017' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn017' %}
 
 The message insists on the political situation in 1964, especially in terms of the labor situation in America. The articulation of education and labor was a recurring theme in the 1960s yearbooks.
 
@@ -235,7 +235,7 @@ The message insists on the political situation in 1964, especially in terms of t
 
 > >Will you in your own way be one of the architects of this brave new world? The answer is yours. You are about to embark upon a great adventure in the high schools of the city of New York. Make the most of the opportunities that are afforded you there. Keep in mind that the decisions you make in the next year or two, may very well direct your destinies for the rest of your lives. Remember too, that you count no matter how populated our city and nation may be, not matter how insignificant we may seem to be in this world of concrete and machinery. Our greatness as a people depends, in the final analysis, on the worth, character, and skill of each of us.
 
-{% include inline_image.html collection='exhsel' pid='cyn018' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn018' %}
 
 
 > >The sin of prejudice by stereotyping can be found among all groups. No one has a monopoly. As young people you have, however, a special opportunity and challenge. Discipline yourselves to recognize the stereotype whether it comes to you via television in the portrayal of gangsters as being of a certain ethnic group or in everyday conversation when "jokes" are made about "dumb –" and "crafty –." Don't fall for the bait, no matter how plausible. And, at the same time, demand that your own merits be considered as an individual and never as a member of an ethnic, racial or religious group.
@@ -257,7 +257,7 @@ The former teacher uses the imagery of open doors to convey ideas about new oppo
 
 In 1966 _Wadleigh Way_ was dedicated to Mr. Plummer and his impact at Wadleigh through the ABC program.
 
-{% include inline_image.html collection='exhsel' pid='cyn020' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn020' %}
 
 
 #### Graduates Write to Wadleigh
@@ -287,11 +287,11 @@ The 1964 report by Harlem Youth Opportunities (HARYOU) considers issues of caree
 
 Recurring messages about the importance of education appear in the _Wadleigh Way_ throughout the 1960s, and they consistently argue that staying in school will lead to positive outcomes for students when they become adults. In 1964, seventh-grade student Loreen Mathias wrote a story about a girl who quits school and then struggles to find a job. She regrets her life choices, and the story ends with: "It's too late now." You can read the story below to see an example of how some students viewed the purpose of their own education. This example also illustrates what visions of the future this official school publication was encouraging.
 
-{% include inline_image.html collection='exhsel' pid='cyn022' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn022' %}
 
 This story, and the student's understanding of the purpose of schooling, was probably inspired by the numerous institutional messages (from guidance counselors, teachers, and other figures at the school) about the value of education, and about the importance of having a degree and qualifications in order to obtain a job in the future. In 1965, student Patricia Manning described the intervention of Dr. Anna Arnold Hedgeman, a guest speaker at the school. Hedgeman emphasized the importance of education, and communicated her message in very forceful terms: "She says that unless we stay in school, we will be nothing but the rubbish in the New World because automation is rapidly taking man's place." This articulation of present concerns and future consequences characterizes messages about schooling in the yearbooks, which tells us something about the various sources and degrees of influence that came into play when students pondered their future. Interventions such as this one was likely to trigger reflections about life decisions for eighth grade students at Wadleigh, as the conclusion of the short text suggests: "So remember, we are tomorrow's leaders, and education is the only thing that can make us good ones."
 
-{% include inline_image.html collection='exhsel' pid='cyn023' %}
+{% include simple_image_viewer.html collection='exhsel' pid='cyn023' %}
 
 The administration as therefore actively involved in transmitting this type of life lessons to students. In his opening message, the principal Perry Spiro also evoked the importance of staying in school. In 1966, the principal's address to the graduating class at Wadleigh read: “The theme of this message, of course, is that you must stay in school not as unwilling captives but as active participants in learning. The next year or two in high school may be challenging, maybe difficult. But you can do it. The path you take at this critical juncture may very well determine your future. Don't let yourselves, your parents, your country down. Good luck!"
 

@@ -9,7 +9,7 @@ _This is an in-progress version an exhibit. It will not be published until it ha
 
 ## The Need for Inclusive Curriculum 
 
-{% include inline_image.html collection='exhsel' pid='lev034' %}
+{% include simple_image_viewer.html collection='exhsel' pid='lev034' %}
 
 _Our struggle has been not to get separate courses or to have one Negro History Week, but to get placing of the history and contribution of the Negro in every level of social studies, literature, and science wherever it naturally comes. We want this written into our courses of study for all the children of our city - to engender pride for the Negro child and appreciation for the white child."_ -Lucille Spence, Negro History Week Supplement, 1954 
 
@@ -19,7 +19,7 @@ Lucille Spence, a biology teacher at the Wadleigh High School in Harlem beginnin
 
 In 1964, Harlem Youth Opportunities Unlimited Inc. (HARYOU) published a report about the conditions of schools in Central Harlem.  This report titled “Youth in the Ghetto: A Study of the Consequences of Powerlessness and a Blueprint for Change” painted a dismal picture of the condition of Harlem schools: “The basic story of academic achievement in Central Harlem is one of inefficiency, inferiority and mass deterioration”.  This report also called attention to the fact that schools in Central Harlem had at the least a 89% Black student population, if not more. The segregation of schools in Central Harlem played a crucial role in the academic performance of these schools.  It also played a role in shaping the solutions to ensure all students had equal educational opportunities.   One of the changes the HARYOU report called for was the inclusion of Black history in the curriculum.  The report claimed  “that the self-image of the Negro youngsters is damaged by the school’s failure to integrate Negro history and personages into the regular classroom syllabus”. The insufficient inclusion of Black history and literature in classrooms was detrimental for students’ academic success.  Including stories that students could relate to, and more than just once a year during Negro History Week, was still seen as a necessity for student success.   
   
-{% include inline_image.html collection='exhsel' pid='lev037' %}
+{% include simple_image_viewer.html collection='exhsel' pid='lev037' %}
 
 When Lucille Spence started teaching at Wadleigh, it was an all girls high school with a multiracial student body.  Wadleigh closed in 1954 and reopened in 1957 as a coeducational junior high school.  When it reopened the student population at Wadleigh Junior High School were predominantly black students from the Central Harlem neighborhood.  This exhibit focuses on the inclusion of Black studies at Wadleigh in the 1970s and 1980s.
 
@@ -27,7 +27,7 @@ Was Black history integrated into Wadleigh Junior High School’s curriculum, an
 
 ## Partial American History: Inclusion in the Social Studies 
 
-{% include inline_image.html collection='exhsel' pid='lev022' %}
+{% include simple_image_viewer.html collection='exhsel' pid='lev022' %}
 
 In the December 1968 issue of Ebony Magazine, Charles Harrison made a call to action for the inclusion of Black history.  This article argues that not only is Black history important for Black students, but without including it in social studies classes, all students are receiving an incomplete history of the United States.  Regardless of the racial make up of the school, Harrison argued, Black history is crucial to understanding the history of the country as well as for fostering better relations between races in the present.  The article claimed that although elective courses and supplemental materials on Black history were  a start, they were not enough.  To make a real difference, this history has to be seamlessly incorporated with the other half of American history.  At the end of the article it lists which states include Black history in the curriculum and gives a small summary of how this is done. This article shows that the inclusion of Black history was an important issue in the 1960s. It was gaining more attention by historians and teachers. Not only was it important to teach Black history to Black students to help cultivate their own positive self-image. It was important to teach it to all students in order to create a more equal America.  
 
@@ -39,25 +39,25 @@ These classes all were relevant to the lives of students at Wadleigh.  Current e
 
 Like Lucille Spence, Charles Harrison’s Ebony article also claimed that Black history should not be a separate class, but rather included in the American history narrative.  From the short description in the yearbook it is hard to know exactly how this class was structured.  The captions next to the pictures describe classes learning about The Civil War and Reconstruction.  This could possibly mean that students were revisiting familiar parts of US history from Black perspectives.  This yearbook page demonstrates that Black history was being incorporating into the social studies curriculum at Wadleigh.  This functions both to provide positive self-image for the students and to provide a full history of the United States.  
 
-{% include inline_image.html collection='exhsel' pid='lev036' %}
+{% include simple_image_viewer.html collection='exhsel' pid='lev036' %}
 
 The “Social Studies” page in the 1975 Wadleigh Way also mentions the importance of social studies classes for students to better understand their past and improve their future.  This page does not mention the same classes that were discussed in the 1971 yearbook.  Instead, the 1975 yearbook page described an Ethnic Studies Program.  This program is one where the “customs, traditions and contributions of all ethnic groups are emphasized”.  It  does not specifically mention Black history on this page.  It is hard to know exactly how much Black history was taught in Wadleigh social studies classes in 1975 from this page. However, based on the student population and the previous emphasis on teaching Black history, it very likely that Black history was still present.  
 
 This inclusion of ethnic studies is something had become more common in New York Schools.  A 1961 report from the commissioner of education in New York state discussed the need for ethnic studies classes in the social studies curriculum, “ special importance if the inclusion of the cultures of the so-called non-western world”.  The report helps to show some level of state support for ethnic studies at Wadleigh.
 
-{% include inline_image.html collection='exhsel' pid='lev035' %}
+{% include simple_image_viewer.html collection='exhsel' pid='lev035' %}
 
 This list of homework requirements at Wadleigh also shows the presence of Black history at Wadleigh.  This list was not dated but, as we can tell from the letterhead, was written during the time Elfreda Wright was principal of Wadleigh, between 1971 and 1982.  Homework required for different subjects is listed from book reports for English to science experiments. “Black history” and “minority studies” are listed as kinds of homework, alongside “creative writing and science experiments, among others.  For social studies, it lists homework for current events, map and globe studies, Black history and minority studies.  Though the document does not provide more information about homework on Black history, the fact that is was listed with the other social studies assignments shows that Black history included in the studies at Wadleigh.
 
-{% include inline_image.html collection='exh' pid='lev017' %}
+{% include simple_image_viewer.html collection='exh' pid='lev017' %}
 
 This student-parent handbook has no date on it, but it also from the time Elfreda Wright was principal.  This means it is from sometime about 1971-1982. The handbook outlines all of the different classes offered at Wadleigh, serving more as a course guide than as a handbook.  Under the social studies page it outlines three main classes: American History, Urban Growth, and Ethnic Studies: An Appreciation for Cultural Origins.  Although no specific mention of Black history is made, it does mention that the Urban Studies class investigates the New York City area and relates directly back to the students’ lives. The class also looked looks at the history, geography, economics and politics of New York State, likely including the experiences and contributions of African Americans. The Ethnic Studies course also examines examples of different cultures in New York City. Studying diversity in New York City is another means of including Black history and multicultural studies in the social studies curriculum. 
 
-{% include inline_image.html collection='exhsel' pid='lev031' %}
+{% include simple_image_viewer.html collection='exhsel' pid='lev031' %}
 
 ## I, Too, Sing America: Black Culture in the English Classroom
 
-{% include inline_image.html collection='exh' pid='lev015' %}
+{% include simple_image_viewer.html collection='exh' pid='lev015' %}
 
 Social studies classes were not the only spaces where Black history and culture were in the curriculum at Wadleigh.  From extensive examination of the lesson plans of long time English teacher Doris Brunson, archived at the Schomburg Center for Research in Black Culture of the New York Public Library, it is evident that Ms. Brunson included Black history, culture and literature in her classes.  Ms. Brunson included both fiction and nonfiction about African Americans.  She also focused on teaching Black poets such as Gwendolyn Brooks and Langston Hughes.  In addition, Ms. Brunson also arranged assemblies for Black History month and other times that focused on the important contributions of African Americans such as Martin Luther King Jr. and Langston Hughes. 	
 
@@ -79,11 +79,11 @@ One of her assignments included a poetry project where students needed to pick 1
 
 CHECK [image 8th grade required reading]
 
-{% include inline_image.html collection='exhsel' pid='lev016' %}
+{% include simple_image_viewer.html collection='exhsel' pid='lev016' %}
 
 CHECK [image poem homework assignment] 
 
-{% include inline_image.html collection='exh' pid='lev012' %}
+{% include simple_image_viewer.html collection='exh' pid='lev012' %}
 
 CHECK [image Mahalia Johnson Assignment]
 
@@ -95,49 +95,49 @@ The poems Ms. Brunson used in her classroom were not only written by African Ame
 
 Another poem that would increase students’ pride in their heritage is the Black National Anthem “Lift Every Voice and Sing”.  This piece was another example of a work used as a choral reading in Ms. Brunson’s class. Since this poem was known as the African American National Anthem, learning this at Wadleigh almost comes across as a political statement.  Studying this poem would teach students more about their identity, during a time when Black pride was blossoming.  The poems Ms. Brunson used in class not only introduced students to poetry, but also worked to build pride in their cultural identities.  
 
-{% include inline_image.html collection='exh' pid='lev009' %}
+{% include simple_image_viewer.html collection='exh' pid='lev009' %}
 
-{% include inline_image.html collection='exh' pid='lev008' %}
+{% include simple_image_viewer.html collection='exh' pid='lev008' %}
 
-{% include inline_image.html collection='exh' pid='lev004' %}
+{% include simple_image_viewer.html collection='exh' pid='lev004' %}
 
-{% include inline_image.html collection='exh' pid='lev005' %}
+{% include simple_image_viewer.html collection='exh' pid='lev005' %}
 
-{% include inline_image.html collection='exh' pid='lev006' %}
+{% include simple_image_viewer.html collection='exh' pid='lev006' %}
 
 ## Special Assemblies 
 
-{% include inline_image.html collection='exh' pid='lev001' %}
+{% include simple_image_viewer.html collection='exh' pid='lev001' %}
 
 Ms. Brunson did not only include Black history and literature in her classroom, she also planned programs for the Wadleigh community to celebrate the accomplishments of important Black figures.  These programs were usually for special occasions such as Black History Month.  Ms. Brunson organized these events with other faculty and staff to honor the works of these people.  These assemblies show learning happened outside of the individual classroom and with the greater Wadleigh community.  In May 1967, Ms. Brunson organized an assembly to honor the works of Langston Hughes for a memorial event.  This event included students reading his poems as well as showing a tape of Hughes reading his own poems.  Through an assembly like this, other students who did not have Ms. Brunson had the chance to learn about his poetry. 
 
-{% include inline_image.html collection='exh' pid='lev002' %}
+{% include simple_image_viewer.html collection='exh' pid='lev002' %}
 
 In addition to this memorial assembly, Ms. Brunson also organized Black History Month assemblies. In 1986, the Wadleigh principal Shirley Mayo, wrote Ms. Brunson a letter thanking her for organizing the event dedicated to Martin Luther King Jr.  in honor of Black History Month.  In 1989 the Advocate Resource Center sent Ms. Brunson a letter thanking her for participating in their Black History Month event.   These three correspondences demonstrate additional methods of teaching Black history, culture and literature in addition to the regular curriculum.  The one caveat with these assemblies is the perpetuation of only learning about Black history during these special assemblies. As Lucille Spence argued, it needs to be part of general curriculum, not just as part of assemblies.  
 
-{% include inline_image.html collection='exh' pid='lev003' %}
+{% include simple_image_viewer.html collection='exh' pid='lev003' %}
 
 ## Don't Believe the Hype: Celebration of Black History Month 
 
-{% include inline_image.html collection='exhsel' pid='lev033' %}
+{% include simple_image_viewer.html collection='exhsel' pid='lev033' %}
 
-{% include inline_image.html collection='exhsel' pid='lev026' %}
+{% include simple_image_viewer.html collection='exhsel' pid='lev026' %}
 
 "The Tales of the Mighty Warrior" is a literary publication created by Wadleigh students in 1989.  The publication is a celebration of Black History Month.  It includes an introduction by the principal Shirley Mayo and other letters by the teachers at the school.  After the teacher letters “The Tales of the Mighty Warrior" is composed of student written biographies of Black men and women who made an important impact in history.  The second page of the book includes a list of the people included in the publication and the names of the students who wrote the biographies.  The text ends with a timeline of African American history.  
 
-{% include inline_image.html collection='exhsel' pid='lev028' %}
+{% include simple_image_viewer.html collection='exhsel' pid='lev028' %}
 
 Shirley M. Mayo’s principal message is a reminder of why this publication celebrating Black History Month was needed.   Mayo spoke about the lack of appreciation for Black history, and encouraged students to use these stories to take pride in their history and in themselves.  This idea of teaching Black history to instill pride in students’ heritage was a major part of the campaigns to revise US history textbooks and include Black history in schools. 
 
-{% include inline_image.html collection='exh' pid='lev021' %}
+{% include simple_image_viewer.html collection='exh' pid='lev021' %}
 
 The controversy was often over which students should receive this history and how should it be done. In the book Whose American?, by Jon Zimmerman, he mentions how historian Carter G Woodson wrote textbooks specifically for Black history classes.  Although he agreed that ideally this history would be integrated into the narrative Woodson argued that could not be done until Black history was positively included into the history to begin with. As for what students should receive this history traditionally it was Black students who received any form of Black history. Although this was important to build pride in their past as the HARYOU report and Ms. Mayo argued, it was also important for other students to know about this history in order to develop tolerance as well as a full picture of American history.  The Tale of the Mighty Warriors is a good example of how students were demonstrating their pride in their history. 
 
-{% include inline_image.html collection='exhsel' pid='lev024' %}
+{% include simple_image_viewer.html collection='exhsel' pid='lev024' %}
 
-{% include inline_image.html collection='exhsel' pid='lev023' %}
+{% include simple_image_viewer.html collection='exhsel' pid='lev023' %}
 
-{% include inline_image.html collection='exhsel' pid='lev020' %}
+{% include simple_image_viewer.html collection='exhsel' pid='lev020' %}
 
 ## The Tale of the Mighty Warriors Timeline 
 
@@ -145,7 +145,7 @@ At the end of “Tale of the Mighty Warriors” publication is a timeline of acc
 
 This timeline starts in 1731 with the birth of Benjamin Banneker, a free Black man who made contributions in mathematics and science.  The timeline mostly focuses on people.  It lists the birthdates of African Americans such as Crispus Attucks, and also mentions how Attucks was the first person to die during the Boston Massacre in 1770.  In addition to listing many African American “firsts”, it also lists the creation of different organizations.  One of these was the first anti-slavery society, founded in Philadelphia in 1774 with Benjamin Franklin as the leader.  This timeline looks at the how African Americans gained freedom over the course of American history.  It lists that Vermont was the first state to abolish slavery in 1777 and that New York State abolished slavery in 1827. It includes both the legislation passed during reconstruction as well as the Voting Rights Act in 1965. This timeline mostly focused on all of the positives of African American history from Jesse Owen’s four gold medals at the Berlin Olympics to Gwendolyn Brooks Pulitzer prize.  The timeline ends in 1970 with Kenneth Gibson becoming the mayor of Newark. 
 
-{% include inline_image.html collection='exhsel' pid='lev018' %} 
+{% include simple_image_viewer.html collection='exhsel' pid='lev018' %} 
 [make whole doc when copied]
 
 ## States that Teach Black History: Wadleigh in Comparison 
