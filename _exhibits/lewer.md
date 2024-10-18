@@ -5,7 +5,7 @@ author: Brittney Lewer
 publish_date: 2019
 permalink: /exhibits/lewer/
 ---
-{% include simple_image_viewer.html collection='exh' pid='lew001' %}
+{% include inline_image.html collection='exh' pid='lew001' %}
 
 ## Growing Up in Harlem
 
@@ -21,13 +21,13 @@ Lucas-Davis’s story provides a first-hand account of the educational opportuni
 
 ## Harlem Elementary Schools
 
-{% include simple_image_viewer.html collection='exh' pid='lew002' %}
+{% include inline_image.html collection='exh' pid='lew002' %}
 
 Lucas-Davis attended P.S. 10 from kindergarten through fifth grade. She remembered the school warmly and spoke of a comfortable environment. “I remember P.S. 10 always smelling like soup. [...] It always smelled like, they were cooking vegetable soup in the cafeteria,” she remembered. She described kindergarten gardening experiments, calling up her second grade teacher for chats, and learning the Pledge of Allegiance in fifth-grade Spanish class. In many ways, she noted, the school climate at P.S. 10 was just as supportive as at Wadleigh Junior High School, with caring teachers and varied academics.
 
 P.S. 10's physical resources were in poor shape. P.S. 10 parents won promises for a new school building in 1956, when Lucas-Davis was in second grade.
 
-{% include simple_image_viewer.html collection='exh' pid='lew011' %}
+{% include inline_image.html collection='exh' pid='lew011' %}
 
 In addition to "dilapidated" conditions, according to The New York Amsterdam News, the school had also become extremely overcrowded. (Lucas-Davis clarified that she remembered the school as "full," with classes of about thirty students each, but she would not call the school "crowded.") Local newspaper reports suggest that many Harlem parents supported the closure of P.S. 10, given the building's physical condition. Some parents, however, expressed concern that relocating the school would delay integration and potentially force their children to attend school in a “slum area.” Parents’ mixed reactions to the displacement of their students suggest competing priorities with regard to educational remedies. Where, exactly, should students attend school, and with whom?
 
@@ -37,11 +37,11 @@ When P.S. 10 closed its doors, Lucas-Davis was about to enter the sixth grade. S
 
 ## Navigating Junior High School
 
-{% include simple_image_viewer.html collection='exh' pid='lew003' %}
+{% include inline_image.html collection='exh' pid='lew003' %}
 
 When it came time to enroll in junior high school in 1961, Lucas-Davis found herself drawn to Wadleigh Junior High School. There was only one problem--Lucas-Davis was not zoned for Wadleigh. Official school zone borders from that time have proven elusive to historians. During Lucas-Davis’s time as a student, the Board of Education formally divided Harlem into three local school districts. Lucas-Davis recalls a barrier at 7th Avenue. Those east of the line were potentially zoned for James Fenimore Cooper Junior High School (also known as JHS 120), she recalls, while those west of the line were zoned for Wadleigh. Cooper appears on this map at 119th Street and Madison Avenue, labeled as JHS 120.
 
-{% include simple_image_viewer.html collection='exhsel' pid='lew020' %}
+{% include inline_image.html collection='exhsel' pid='lew020' %}
 
 Lucas-Davis believed that she was residing in Cooper’s probable catchment zone, but recalled emphatically that she “didn’t want to go there.” After attending an evening program at Wadleigh and hearing the school's esteemed Glee Club sing, Lucas-Davis knew that she wanted to be part of Wadleigh. She registered for the school by using a family friend’s address as her own. (Lucas-Davis did go onto sing with in Wadleigh’s Glee Club, even performing at the World’s Fair in 1964.)
 
@@ -57,7 +57,7 @@ Lucas-Davis's family drew on their social network to create options for where to
 
 ## Teacher-Student Interactions at Wadleigh Junior High
 
-{% include simple_image_viewer.html collection='exh' pid='lew004' %}
+{% include inline_image.html collection='exh' pid='lew004' %}
 
 Lucas-Davis named caring teachers as a defining characteristic of Wadleigh Junior High School. She recognized many teachers were part of the Harlem community, and felt that they took a keen interest in their students’ lives and successes. Their interactions stretched outside of Wadleigh’s walls. Here, Lucas-Davis reads from an article she wrote to honor Mr. Plummer, whose reputation for high expectations preceded him:
 
@@ -65,7 +65,7 @@ Lucas-Davis named caring teachers as a defining characteristic of Wadleigh Junio
 
 Teachers supported students in ways that extended beyond mere discipline. Lucas-Davis attended her first debutante ball while she was in the seventh grade. The ball was hosted at Rockland Palace, located here on 155th Street. It was held on George Washington's Birthday, and organizers wore Revolutionary-style garb in honor of the event.
 
-{% include simple_image_viewer.html collection='exh' pid='lew012' %}
+{% include inline_image.html collection='exh' pid='lew012' %}
 
 Lucas-Davis invited her Spanish teacher, Mr. Lavergneau, who attended in full formal attire. This anecdote captures the sense of respectability and preparedness that Lucas-Davis’s favorite teachers both projected and demanded of their students, their care for students, and her affection for them.
 
@@ -95,21 +95,21 @@ Beyond proper dress, students were expected to embody proper behavior. Teachers 
 
 Wadleigh students could also earn certificates for the values of scholarship, citizenship, punctuality, and attendance. Lucas-Davis is still in possession of the certificates she earned for all four of these attributes, as well as for accolades in English, Spanish, home economics, and graphic arts.
 
-{% include simple_image_viewer.html collection='exh' pid='lew013' %}
+{% include inline_image.html collection='exh' pid='lew013' %}
 
 She described Wadleigh students as both “coddled” and “pushed” by teachers who devoted considerable attention to the youth under their care. Lucas-Davis noted that students also took pride in maintaining a decorous school environment. Student “patrols” maintained order in the hallways, and classmates shunned those who were seen as habitual troublemakers. Safety patrols wore badges like this one. Many senior students adorned themselves with these badges in their class pictures for the Wadleigh Way yearbook.
 
-{% include simple_image_viewer.html collection='exh' pid='lew014' %}
+{% include inline_image.html collection='exh' pid='lew014' %}
 
 Rather than a site of low standards, as many published accounts portrayed Harlem schools, Lucas-Davis’s Wadleigh grounded itself in high expectations for academic achievement and student conduct. She appreciated the school's structure and discipline, which she felt pushed her to succeed.
 
 ## Field Trips
 
-{% include simple_image_viewer.html collection='exh' pid='lew005' %}
+{% include inline_image.html collection='exh' pid='lew005' %}
 
 Lucas-Davis made frequent excursions outside of Harlem, some through school trips and others with friends. She described her younger self as “kind of sheltered,” but explained that she was always allowed to participate in school-affiliated and educational activities. Visiting the Donnell Library, which was located across from the Museum of Modern Art, was a favorite pastime. At the Donnell, Lucas-Davis and her friends could gather away from the watchful eyes of parents and neighbors.
 
-{% include simple_image_viewer.html collection='exh' pid='lew015' %}
+{% include inline_image.html collection='exh' pid='lew015' %}
 
 School-sponsored field trips were also commonplace. By the time she graduated, Lucas-Davis reasoned that she had been to “every museum that was there in New York City.” Students would huddle onto the subway or buses to visit sites like the Museum of the City of New York, one of Lucas-Davis’s favorites. Just as Wadleigh’s weekly assembly brought outside speakers into the school, these field trips exposed students to a variety of cultural attractions outside of their neighborhood.
 
@@ -117,7 +117,7 @@ Teachers at Wadleigh often prompted their students to think beyond Wadleigh's wa
 
 ## Civil Rights in Harlem
 
-{% include simple_image_viewer.html collection='exh' pid='lew006' %}
+{% include inline_image.html collection='exh' pid='lew006' %}
 
 Lucas-Davis's adolescence coincided with the height of activity in the Civil Rights Movement. Martin Luther King delivered his “I Have a Dream” speech at the March on Washington just weeks before Lucas-Davis began her ninth grade year at Wadleigh, and Lyndon Johnson signed the Civil Rights Act of 1964 shortly before the schoolyear ended.
 
@@ -150,7 +150,7 @@ Second, as Lucas-Davis asked, how did families learn about their schools’ mate
 
 ## Navigating High School
 
-{% include simple_image_viewer.html collection='exh' pid='lew007' %}
+{% include inline_image.html collection='exh' pid='lew007' %}
 
 Wadleigh was the last Harlem school that Lucas-Davis attended. The only high school in Harlem at that time was Benjamin Franklin High School, pictured here at the eastern edge of Harlem. Lucas-Davis recalled few Wadleigh classmates attending Benjamin Franklin. Her impression was that “No one wanted to go Benjamin Franklin,” as the school had a reputation for gang activity.
 
@@ -172,11 +172,11 @@ Lucas-Davis graduated from Brandeis High School in June 1967 with a commercial d
 
 ## Wadleigh Reunions
 
-{% include simple_image_viewer.html collection='exh' pid='lew008' %}
+{% include inline_image.html collection='exh' pid='lew008' %}
 
 At present, Lucas-Davis leads the Wadleigh alumni group. It is in this capacity that she has been influential in linking former Wadleigh students to the Harlem Education History Project--many oral history participants’ names came to the project through Lucas-Davis. She became involved in the alumni group through Ms. Brunson, a longtime Wadleigh teacher, with whom she kept in touch. Lucas-Davis estimates that about 600 people are included in the group. She sends members postcards and keeps them abreast of school news.
 
-{% include simple_image_viewer.html collection='exh' pid='lew016' %}
+{% include inline_image.html collection='exh' pid='lew016' %}
 
 The group meets annually for a picnic in Central Park. Alumni and former teachers are encouraged to bring photographs and memorabilia from their time at the school, as well as to catch up with one another. The picnic draws attendees from across the five boros and out of state. Most of these alumni are contemporaries of Lucas-Davis, though she aims to reach out to Wadleigh alumni from the 1970s and 1980s. Lucas-Davis noted that Wadleigh High School, an all-girls school that closed in 1954 and reopened as Wadleigh Junior High in 1956, previously had a formal alumnae group. The Wadleigh Junior High alumni group extended an invitation to these "High School Ladies” for the annual picnics.
 

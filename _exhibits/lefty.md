@@ -12,13 +12,13 @@ Harlem stories don’t always begin and end in Harlem.
 
 Evelina López Cruz was born in Salinas, Puerto Rico on September 19, 1922. At that time, Puerto Rico was an official colony of the United States after the U.S. acquired the island following victory in the Spanish-Cuban-American War. U.S. governors ruled over the island, and economic exploitation led to widespread poverty. This did not imply a lack of rich cultural, intellectual, and political heritage, however, which Evelina carried with her throughout her life.
 
-{% include simple_image_viewer.html collection='exh' pid='lef001' %}
+{% include inline_image.html collection='exh' pid='lef001' %}
 
 In a 1976 interview conducted by her sister, Lilian López, Evelina spoke of her childhood in Puerto Rico and her journey to New York at the age of ten.
 
 What she remembered most about Salinas was the “beautiful beach...perhaps in my imagination it was beautiful...we had the run of the entire beach to play as a child… I remember the vegetation, the flowers, the beauty. Identifying with the land a great deal. The space.”
 
-{% include simple_image_viewer.html collection='exh' pid='lef008' %}
+{% include inline_image.html collection='exh' pid='lef008' %}
 
 She also recalled the racial diversity.
 
@@ -42,7 +42,7 @@ By the early 1930s, the Great Depression hit Puerto Rico and Evelina's family ha
 
 "My family, like the rest of the villagers, was very poor... If it was bad here [in the U.S.] you can imagine what it was like in Puerto Rico. Since our economy is so tied to this economy."
 
-{% include simple_image_viewer.html collection='exh' pid='lef009' %}
+{% include inline_image.html collection='exh' pid='lef009' %}
 
 Poverty and hardship led Eva to send Evelina to live with a sister in New York City.
 
@@ -54,11 +54,11 @@ _For teachers and students: were any of your students or classmates and their fa
 
 # The Other Great Migration: Puerto Ricans to New York City, 1910-1970
 
-{% include simple_image_viewer.html collection='exh' pid='lef002' %}
+{% include inline_image.html collection='exh' pid='lef002' %}
 
 At the age of ten, Evelina boarded the ship El Ponce and made the five day journey from San Juan to New York. To make sure she didn't travel alone, her mother found another woman from Salinas making the same trip, though Evelina recalled how the woman quickly became seasick and it was she, a ten year old girl, taking care of the woman instead of the other way around.
 
-{% include simple_image_viewer.html collection='exh' pid='lef007' %}
+{% include inline_image.html collection='exh' pid='lef007' %}
 
 After arriving at South Street Seaport in 1932, she went to live with an aunt and her husband in the Puerto Rican enclave of East Harlem, known as El Barrio. Evelina remembered, fondly, the days with her "beautiful, colorful" Tia Elba with all her fashionable dresses and her uncle, always gambling to make ends meet because he couldn't get a job. In her young mind they were both elegant, "black and beautiful," and rich in love though not in material goods. Two years later, when Elba received some money from a settlement after breaking her arm at work, she was able to send for Evelina's mother and two younger sisters.
 
@@ -66,11 +66,11 @@ After arriving at South Street Seaport in 1932, she went to live with an aunt an
 
 Evelina was not alone in making the journey from Puerto Rico to New York. In addition to the Great Migration of six million African Americans from the South to the urban North between 1910 and 1970, a great wave of Puerto Ricans also made their way to mainland industrial cities in search of jobs. As a result of Puerto Rico's colonial ties to the U.S., tough economic times at home, and new wartime opportunities, the Puerto Rican population in New York City rose from 61,463 in 1940 to 860,584 by 1970.
 
-{% include simple_image_viewer.html collection='exh' pid='lef010' %}
+{% include inline_image.html collection='exh' pid='lef010' %}
 
 Due to the ease and frequency of travel, Puerto Rico and New York, particularly East Harlem and other Puerto Rican neighborhoods on the Lower East Side, the South Bronx, and in Williamsburg, Brooklyn, remained closely connected through the physical circulation of people, music, newspapers, books, art, and political figures. While Puerto Ricans first made the journey by boat, much like Evelina, by the 1950s cheap airfare rendered Puerto Ricans the first "airborne diaspora," and many Puerto Ricans jokingly referred to planes that flew from San Juan to JFK and back as the guagua aérea, or "aerial bus." Historians call this the "conquering of space by time," but what it meant for everyday people such as Evelina and her family was that a journey that once took five days or more now took only a few hours.
 
-{% include simple_image_viewer.html collection='exh' pid='lef011' %}
+{% include inline_image.html collection='exh' pid='lef011' %}
 
 #### _Reflection Questions_
 
@@ -84,25 +84,25 @@ Evelina Cruz arrived in New York with full U.S. citizenship. She was not an immi
 
 The U.S. gained control of the island of Puerto Rico in 1898 following victory in the Spanish-Cuban-American War. In 1917 the U.S. imposed citizenship status on all island residents through the Jones Act, yet Puerto Rico remained an unincorporated territory, subject to the legislative and gubernatorial oversight of the federal government. This meant the U.S. president, who Puerto Ricans did not have the right to vote for, continued to appoint U.S. governors to rule over the island, and all legislation pertaining to Puerto Rico passed through the U.S. Congress, where Puerto Ricans did not have representation. This did not change until 1952 when Puerto Rico became a Commonwealth, which left many of the colonial ties in place but rid the island of its official colonial status. As culturally and linguistically Hispanic--Spanish-speaking and identifying more with Latin American than North American heritage--Puerto Ricans therefore occupied a precarious position within the American state: official citizens, but colonial subjects and cultural and racial Others.
 
-{% include simple_image_viewer.html collection='exh' pid='lef012' %}
+{% include inline_image.html collection='exh' pid='lef012' %}
 
 Although educational opportunities remained fewer on the island than the mainland in the early 20th century, they were not absent. Schooling became an important tool of American colonization, as U.S. American statesmen used schools to mold Puerto Ricans into what they hoped would be loyal, Americanized, English-speaking subjects, or what they sometimes referred to as "tropical Yankees."
 
 "Colonization carried forward by the armies of war is vastly more costly than that carried forward by the armies of peace, whose outposts and garrisons are the public schools of the advancing nation," reasoned the U.S. Bureau of Education in 1902.
 
-{% include simple_image_viewer.html collection='exh' pid='lef013' %}
+{% include inline_image.html collection='exh' pid='lef013' %}
 
 Antonetty's political life was therefore shaped not only by her experiences in Harlem and the continental U.S. working with civil rights activism, but also by a long history of Puerto Rican and Latin American anti-imperialism and island-based politics. In understanding Harlem stories, one must imagine the dense and tangled web of connections that residents brought from other parts of the country and world, and the histories, experiences, ideas, and memories from elsewhere that shaped life in Harlem and El Barrio.
 
 ## El Barrio and Harlem
 
-{% include simple_image_viewer.html collection='exh' pid='lef003' %}
+{% include inline_image.html collection='exh' pid='lef003' %}
 
 "It was a small community at the time. Maybe from 110th St. to 116th St. and maybe 5th Avenue to Madison Ave. and the West Side of Park Avenue... Everybody knew everybody else."
 
 In New York, Puerto Ricans largely concentrated in the neighborhood right next to the African American mecca of political and cultural life: Harlem. And similar to Harlem's relationship to the Black community, El Barrio became the political and cultural center for the Puerto Rican diaspora, full of mutual aid societies, political organizations, Latin music and cultural spaces, Spanish-speaking parishes, and Puerto Rican businesses.
 
-{% include simple_image_viewer.html collection='exh' pid='lef014' %}
+{% include inline_image.html collection='exh' pid='lef014' %}
 
 #### Puerto Ricans: Black, White, or Other?
 
@@ -118,11 +118,11 @@ As a young girl, Evelina would often collect food stamp tickets from her neighbo
 
 Evelina recalled,"There was no hostility between the races. We had similar problems of poverty and unemployment." She also recalled her boyfriend at age fifteen looking like Nat King Cole, a famous African American musician and singer. It is unclear whether he was African American, Caribbean, or Puerto Rican, though sources imply that he was most likely Cuban.
 
-{% include simple_image_viewer.html collection='exh' pid='lef015' %}
+{% include inline_image.html collection='exh' pid='lef015' %}
 
 In fact, the boundaries between "Black" and "Puerto Rican" often blurred. Arturo Schomburg, the famous intellectual and founder of the Schomburg Center for Research in Black Culture was actually Puerto Rican, but upon arrival to the mainland married an African American women and largely self-identified with the Black as opposed to Puerto Rican and Latino community. The infamous 1935 Harlem race riots were triggered by anger toward Afro-Puerto Rican boy Lino Rivera, though the media just referred to him as a "Negro boy." And as Evelina's childhood memories reveal, she considered African heritage crucial to the Puerto Rican story, and herself a member of the African diaspora.
 
-{% include simple_image_viewer.html collection='exh' pid='lef016' %}
+{% include inline_image.html collection='exh' pid='lef016' %}
 
 In short, lives were mobile, neighborhood boundaries never prevented interaction between communities of different backgrounds, and categories of race and ethnicity were malleable and often changing.  Yet in a city and country where skin color mattered, determining which neighborhoods you could live in, which jobs you could have, and how you were treated by the powerful white majority and the institutions they controlled, Puerto Rican residents often struggled to receive the full benefits of their American citizenship due to their race, language, and cultural heritage.
 
@@ -148,17 +148,17 @@ During the years Evelina attended Wadleigh, the student population was markedly 
 
 Evelina was one of few Puerto Rican students amongst a handful of Spanish-speaking young women of Hispanic heritage, but she also attended class and participated in activities alongside girls of European Catholic, Protestant, and Jewish backgrounds, as well as West Indian and African American girls, some whose families likely lived in the North for many generations, and some who recently migrated from the South or the Caribbean. This reflected both the demographics of Harlem, which was more racially and ethnically diverse at the time, but also the era before intense residential and school segregation solidified in the North by the 1950s.
 
-{% include simple_image_viewer.html collection='yb' pid='wyb013' %}
+{% include inline_image.html collection='yb' pid='wyb013' %}
 
 Yet even if a page of Wadleigh's yearbook, _The Owl_, paints a portrait of racial integration, daily life within Wadleigh did not always reflect a rosy racial utopia. Evelina recalled that administrators did not encourage black and Latino students to participate in cocurricular activities other than singing and dancing, viewing them as "just good for that." And in another oral interview, the former African American teacher, Doris Brunson, recalled that some teachers seated African American students in the back of the classroom and away from white students. Such practices may have also included Spanish-speaking students and those of Hispanic background.
 
-{% include simple_image_viewer.html collection='exhsel' pid='lef040' %}
+{% include inline_image.html collection='exhsel' pid='lef040' %}
 
 Schools and the field of education then, as now, served as key sites where Puerto Ricans and African Americans became racialized--considered not only different from but also inferior to white Anglo Protestants and immigrants of other European heritages. Labels such as “slow learners,” “problems,” and “juvenile delinquents” shaped discourses surrounding Puerto Rican students, whose numbers kept rising throughout the mid and late twentieth century. Already by 1935, three years after Evelina arrived in New York, a Special Committee on Immigration and Naturalization of the New York Chamber of Commerce concluded that Puerto Rican children were “intellectually deficient,” and possible threats to the city due to a natural inclination toward crime and dilinquency. Throughout the '40s, '50s, and '60s, reports ranging from the extensive 1953 Puerto Rican Study to Oscar Lewis' La Vida continued to mark Puerto Ricans as culturally deficient.
 
 The requirement that high schools keep records also forced students to either self-identify or be identified as a certain race or national origin. This was often difficult for Puerto Ricans, particularly before the category "Puerto Rican" was added to the national census in 1960 and the category "Hispanic" in 1970, though schools sometimes defined their own categories, and surveys attempted to capture the number of Puerto Rican students in the NYC system. School administrators often included Puerto Ricans in the "South American" group, though sometimes dark-skinned Puerto Rican students were classified as United States (Negro).
 
-{% include simple_image_viewer.html collection='documents' pid='card04' %}
+{% include inline_image.html collection='documents' pid='card04' %}
 
 Daily interactions with peers and teachers in lunchrooms, classrooms, and clubs, as well as the curriculum, could also function to create racial categories and racial hierarchies that then carried outside the schoolhouse. For example, American textbooks from earlier in the 20th century often portrayed non-white, non-Christian, and even non-English speaking people in a negative light. White teachers sometimes expected less from non-white pupils, and students often targeted classmates of other backgrounds for bullying. One Puerto Rican student writing in the early 1960s noted that his first experience of feeling different after moving from Puerto Rico to the mainland was in school: “I realized that being Puerto Rican in New York meant being different and it meant not being as good as other Americans.”
 
@@ -188,7 +188,7 @@ Schools were not the only places where education took place in Harlem and El Bar
 
 Public libraries also functioned as crucial community learning centers. Referring to the branch just north of Wadleigh, Evelina recalled, “My sister and I were avid readers and there was much to learn. My mother followed the Puerto Rican tradition in that we weren’t allowed much freedom. But we could visit the public library on West 115th Street, and we did several times a week.” She remembered the librarian, who would “read and tell us stories about Puerto Rico. She was like a bridge between the old and new worlds.” This librarian was likely Pura Belpre, a celebrated children's author and folklorist, and the first Puerto Rican to serve in New York libraries.
 
-{% include simple_image_viewer.html collection='exh' pid='lef018' %}
+{% include inline_image.html collection='exh' pid='lef018' %}
 
 #### _Reflection Questions_
 
@@ -206,7 +206,7 @@ Her first marriage did not last, though she describes her first husband as “a 
 
 As her three children grew to school age, Evelina became more involved in local school politics. In 1966 she worked a summer job with the Head Start Program at P.S. 25 (which would later become the first bilingual school in the city, thanks in part to Evelina’s organizing), and also took a job with the Puerto Rican Community Development Project as a Field Coordinator from 1965 to 1967.
 
-{% include simple_image_viewer.html collection='exh' pid='lef019' %}
+{% include inline_image.html collection='exh' pid='lef019' %}
 
 As a Puerto Rican parent who could speak fluent English, she was also asked to join the PTA at her child’s school, P.S. 5. Just like the young Evelina who zeroed in on the injustice at Wadleigh, the adult Evelina likewise joined with parents to confront issues in the local schools.
 
@@ -224,25 +224,25 @@ _Do you think schools mirror society's problems, or cause society's problems?_
 
 “Our children can become the educators, doctors and leaders of tomorrow. Don’t let anyone tell us differently...that our children [are] uneducable or mentally retarded.”
 
-{% include simple_image_viewer.html collection='exh' pid='lef021' %}
+{% include inline_image.html collection='exh' pid='lef021' %}
 
 In 1965 Evelina founded the United Bronx Parents, Inc. (UBP), a community-based organization dedicated to improving educational opportunities for minority children in the South Bronx. The UBP focused on organizing and training parents to advocate for school reforms that would better serve their children and reflect the needs of the community. As historian Adina Back explains, the “UBP challenged not only inferior schools in one under-served community but also the mind-set of New York City Board of Education officials, who labeled that community’s children as victims of an impoverished culture that did not value education.”
 
 In the 1960s, “culture of poverty” arguments emanated from social scientists and policy experts who claimed that Black and Puerto Rican cultures and family structure caused academic underachievement and reproduced poverty from one generation to the next. Evelina Antonetty and her fellow parent activists, however, countered those claims, instead pointing to inferior and poorly trained teachers, bureaucratic mismanagement, tracking of minority students into vocational rather than academic programs, and other forms of discrimination. As a graduate of an academic rather than a vocational track herself, Evelina felt strongly in the value of educating all students in a rich and challenging curriculum. UBP therefore trained parents to evaluate a school using their own metrics, productively participate in parent-teacher conferences, join PTAs, lobby for better facilities and curriculum, and navigate the often overwhelming bureaucracy of the NYC BOE and the New York State educational system.
 
-{% include simple_image_viewer.html collection='exh' pid='lef022' %}
+{% include inline_image.html collection='exh' pid='lef022' %}
 
 UBP became particularly famous for its work with community control, bilingual education, Black and Puerto Rican Studies curriculums, and free lunch programs. Frustrated with the slow pace and ugly politics of school integration efforts, Evelina and many other Black, Puerto Rican, and Chinese activists in the late 1960s and early 1970s argued that schools should not be controlled by a centralized administration, but rather by the community itself. The history, language, and literature of school curriculum should also reflect the rich history of Africans and the Black diaspora, as well as Puerto Rican and Latin American heritage. They also believed schools should employ more teachers and administrators that reflected the racial and ethnic composition of the community, and decisions should be made in and by parents and school leaders from the neighborhood. Such advocacy led to the creation of three community-controlled demonstration districts, the passing of a 1969 Decentralization Law that created 30 districts within the larger NYC school system, and greater bilingual and Black and Puerto Rican Studies programming.
 
-{% include simple_image_viewer.html collection='exh' pid='lef023' %}
+{% include inline_image.html collection='exh' pid='lef023' %}
 
-{% include simple_image_viewer.html collection='exh' pid='lef024' %}
+{% include inline_image.html collection='exh' pid='lef024' %}
 
 ## The United Bronx Parents, Inc and the “Black and Puerto Rican” Struggle
 
 In many ways, Evelina’s life journey mirrors the ways in which the African American and Puerto Rican communities related to one another throughout the twentieth century. In the 1930s and ‘40s when Evelina first arrived in East Harlem, Puerto Ricans considered themselves distinct from, though sometimes in alliance with African Americans in Central Harlem. Yet through experiences such as living in close proximity, working in the same unions, serving in the same wars, and experiencing similar forms of discrimination—notably school segregation, by the 1960s and 1970s many Puerto Ricans understood their struggle as almost one and the same as their African American neighbors. The 1964 school boycott against segregation, and a failed attempt by the BOE to integrate middle school I.S. 201 in East Harlem, were two of the most important events that brought the two communities together, as well as shared experiences with second class citizenship. They also found common cause against U.S. imperialism, which they saw at work in Puerto Rico, across the world in places like Vietnam and Latin America, and in how communities of color were treated in "internal colonies" within the United States.
 
-{% include simple_image_viewer.html collection='exh' pid='lef026' %}
+{% include inline_image.html collection='exh' pid='lef026' %}
 
 The UBP aligned with other Black and Puerto Rican organizations, such as the Young Lords, who fought for community control of institutions such as schools and against racism and capitalist imperialism. The Young Lords called explicitly for self-determination, both on the island of Puerto Rico and in urban neighborhoods within the United States. ["Viva Puerto Rico Libre,"](https://www.youtube.com/watch?v=xCHgLcYP_lk) a 1969 song by the Puerto Rican band the Ghetto Brothers, which captures the Puerto Rican Nationalist sentiment of the era.Controlling local schools was one key part of achieving that self-determination.
 
@@ -262,23 +262,23 @@ _Would you have joined Evelina in her fight for community control of schools, or
 
 “For Puerto Ricans she was our Rosa Parks and Fannie Lou Hammer, our Mother Jones and our Mother Teresa. She was a warrior, an activist, an educator, an organizer while also being a leader of a powerful community organization. She was a mother for her children and a mother for many of us who were lost children. She understood us, cared for us, pushed us to be strong, provided support and contributed in so many ways to the success of many, many people. She was Evelina Antonetty.”
 
-{% include simple_image_viewer.html collection='exh' pid='lef027' %}
+{% include inline_image.html collection='exh' pid='lef027' %}
 
 Towards the end of her life, Evelina remained active in school reform and community development issues. She continued to work with the UBP and many other organizations, serving on a number of boards, advising other nonprofits, giving speeches, and participating in conferences and workshops on issues ranging from women’s empowerment to bilingual education to drug abuse counseling. Manhattan College awarded Evelina an honorary doctorate degree in 1970, and she taught classes at both Hunter College and SUNY Westbury under course titles such as “The Puerto Rican Child in the American School” and “The History of the Puerto Ricans in New York City.” She received numerous awards throughout the seventies and early eighties, and visited the White House on a number of occasions as an honored guest at important conferences and press events.
 
-{% include simple_image_viewer.html collection='exh' pid='lef028' %}
+{% include inline_image.html collection='exh' pid='lef028' %}
 
 [This rare clip](https://www.youtube.com/watch?v=A0vsM7afs68&t=652s) shows Evelina as she joins other Puerto Rican activists in strategizing how to best protest the 1980 film Fort Apache, which depicts Puerto Ricans and African Americans as drug dealers, gang members, and criminals.
 
 Evelina passed away in 1984, but the Wadleigh graduate’s legacy remains strong. In 2001 a play entitled Evelina’s Heart/El Corazon de Evelina was written to honor the life and legacy of the great community leader, and in 2011 156th St. and Prospect Ave. was renamed “Dra. Evelina Antonetty López Way."
 
-{% include simple_image_viewer.html collection='exh' pid='lef029' %}
+{% include inline_image.html collection='exh' pid='lef029' %}
 
 Evelina’s legacy, perhaps most importantly, also lives on in the continued struggle for educational equality for Puerto Ricans and historically marginalized children of all backgrounds, bilingual education programs across the country, and the Black and Puerto Rican studies departments at a number of university and college campuses. Puerto Ricans continue to fight for educational justice in New York through important community organizations such as Aspira, El Puente, Latino Justice/PRLDEF, El Centro de Estudios Puertorriqueños, and the #BarrioEdProject, to name just a few.
 
- {% include simple_image_viewer.html collection='exh' pid='lef030' %}
+ {% include inline_image.html collection='exh' pid='lef030' %}
 
- {% include simple_image_viewer.html collection='exh' pid='lef031' %}
+ {% include inline_image.html collection='exh' pid='lef031' %}
 
 Even though Evelina, “The Mother of the Puerto Rican community,” is no longer with us, her words remain prescient:
 
