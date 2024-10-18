@@ -11,7 +11,7 @@ Explore these exhibits to learn more about themes and moments in Wadleigh's hist
 
 _by Esther Cyna, a Teachers College PhD student_
 
-{% include simple_image_viewer.html collection='exh' pid='cyn025' %}
+{% include inline_image.html collection='exh' pid='cyn025' %}
 <br>
 
 ### [Wadleigh: Evolution of the Arts and Culture](/exhibits/evolution/)
@@ -26,7 +26,7 @@ _by Justin Clarke, Tahjay Lee, and Ebony Ramirez, Wadleigh students and particip
 
 _by Ellen Oshinsky, a Teachers College masters student in music education, and the Harlem Education History Project_
 
-{% include simple_image_viewer.html collection='yb' pid='wyb009' %}
+{% include inline_image.html collection='yb' pid='wyb009' %}
 <br>
 
 ### [Wadleigh Student Responses to Historical Events through Art and Literature](/exhibits/responses/)
@@ -41,7 +41,7 @@ _by Rosbelkis Acosta, Sandra Liu, and Shantel Sosa, Wadleigh students and partic
 
 _by Lauren Lefty, a PhD student at New York University_
 
-{% include simple_image_viewer.html collection='exh' pid='lef001' %}
+{% include inline_image.html collection='exh' pid='lef001' %}
 <br>
 
 ### [Wadleigh through the Decades](/exhibits/decades/)
@@ -56,11 +56,11 @@ _by Janet Aguilar, Kendy Guzman, and Kaila Watson, with Ebony Ramirez, Shantal S
 
 _by Brittney Lewer, a PhD student at New York University_
 
-{% include simple_image_viewer.html collection='exh' pid='lew013' %}
+{% include inline_image.html collection='exh' pid='lew013' %}
 <br>
 
 ### [The War that Wadleigh Students Imagined](/exhibits/mayorga/)
 
 _by Rodrigo Mayorga, a Teachers College PhD student_
 
-{% include simple_image_viewer.html collection='exhsel' pid='may011' %}
+{% include inline_image.html collection='exhsel' pid='may011' %}

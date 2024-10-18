@@ -9,7 +9,7 @@ During the 1930 and 1940s, Harlem was full of musical talent and spirit, with nu
 
 Outside of the grand stages and radios of Harlem, smaller and younger Black musicians were in training, learning in music lessons and programs. Students and teachers who developed their musical talent outside of the city’s public school system later brought their knowledge into Harlem school buildings, infusing the classrooms, auditoriums and special celebrations with bonafide talent.
 
-{% include simple_image_viewer.html collection='yb' pid='wyb009' %}
+{% include inline_image.html collection='yb' pid='wyb009' %}
 
 Wadleigh High School’s June 1939 yearbook cover had a musical theme. This exhibit explores the cultivation of a "composer identity" at Wadleigh High School in Harlem, as one example of Black student achievement in the context of racial segregation and exclusion
 
@@ -23,7 +23,7 @@ But are “composers” exclusively European and male? Yet if you visit the Scho
 
 The seeds of musical careers seem to have been sown in Wadleigh’s musical spaces. Some of Wadleigh’s young female composers’ musical development continued beyond graduation. The professional heights these young girls achieved beyond their Wadleigh years show the impact of the “composer” identity cultivated at Wadleigh. The volume of musical artifacts in the archives further underscores that Wadleigh had a composer culture that welcomed the schools’ Black and white students in nurturing their musical talents. The school offered its students a platform to produce and present themselves as composers to their community. Young African American high school girls in the 1930s and 1940s may not have come to mind when thinking of “composers.” Yet the musical scores they and their teachers have left in the archive help to reawaken their voices and stories and challenge images of only white European men as composers.
 
-{% include simple_image_viewer.html collection='exhsel' pid='osh007' %}
+{% include inline_image.html collection='exhsel' pid='osh007' %}
 
  Let’s take a look into the life of a specific Black Wadleigh student, Millicent Brown, who brought her musical talent into Wadleigh. Her story shows how Wadleigh High School during the 1930s and 1940s was an institution that encouraged students' musical talents giving them the space to compose and perform, thereby expanding the "composer" identity to high school girls, many of them Black girls.   
 
@@ -39,15 +39,15 @@ Community centers, churches and cultural centers moved into the area to support 
 
 Isabele Tailiferro Spiller was a member of the band called the Musical Spillers, and a teacher in the Spiller School of Music at 232 West 138th St in Harlem. The Spiller School of Music, run by Isabelle Spiller and her husband William, offered a variety of lessons and programs for children and adults including a “Tiny Tots Band” for preschool children and beginning lessons on the piano, violin, banjo, drums, saxophone, clarinet, trumpet, trombone for children and adults.
 
-{% include simple_image_viewer.html collection='exh' pid='osh008' %}
+{% include inline_image.html collection='exh' pid='osh008' %}
 
 The Spiller School of Music took pride in the musical achievements of  its students and strongly encouraged them to enter into the New York Music Week Association Contest. The school and community lauded students who won awards from these contests. One of those winners was Millicent Brown, who played piano and won a Silver Medal in the 1932 New York Music Week Association Contest. The program featured a majority of white, European composers (Handel, Mozart, Beethoven, Hewitt, Kuhlau, Holler, and Schumann) and a Black American composer, James Hubert Blake. Millicent Brown performed a symphony by Mozart at this event.
 
-{% include simple_image_viewer.html collection='exh' pid='osh010' %}
+{% include inline_image.html collection='exh' pid='osh010' %}
 
 In the 1920s and 1930s people of all ages could come to the Spiller School of Music at 232 West 138th St in Harlem for music instruction.
 
-{% include simple_image_viewer.html collection='exh' pid='osh009' %}
+{% include inline_image.html collection='exh' pid='osh009' %}
 
 Music educator, Isabele Tailiferro Spiller, a member of the band the Musical Spillers offered a variety of lessons and programs for children and adults including a “Tiny Tots Band” for preschool children and beginning lessons on the piano, violin, banjo, drums, saxophone, clarinet, trumpet, trombone for children and adults. Programs from recitals in the 1930s highlight students performing pieces typically composed by European men including Handel, Beethoven and Mozart.
 
@@ -57,23 +57,23 @@ Cultural centers such as the Music Settlement School and the Spiller School of M
 
 ## Millicent Brown at the Spiller School and Wadleigh
 
-{% include simple_image_viewer.html collection='exhsel' pid='osh002' %}
+{% include inline_image.html collection='exhsel' pid='osh002' %}
 
 Wadleigh High School during the 1930s and 40s had many offerings to support students in their music and arts education. There was an orchestra, chorus, senior glee club, and theater group. Programs from formal performances and events from the school include more modern tunes of the time, such as Gershwin’s’ “Summertime” during “A Spring Festival” in June 1948 and more classical pieces such as “Batti, Batti” by Mozart during the January 1939 graduation exercise.
 
 Ms. Spiller was first a teacher at the Spiller School and later on became a music teacher at Wadleigh High School, where faculty was predominantly white despite a diverse student body, as Kimberly Johnson documented. The arrival of a Black music teacher may have led to greater inclusion of Black girls in musical activities.
 
-{% include simple_image_viewer.html collection='exhsel' pid='osh011' %}
+{% include inline_image.html collection='exhsel' pid='osh011' %}
 
-{% include simple_image_viewer.html collection='exhsel' pid='osh012' %}
+{% include inline_image.html collection='exhsel' pid='osh012' %}
 
 In addition to providing young girls with music to sing and play, the school was also a place for young girls to compose, publish and play original compositions. Millicent Brown contributed to this composer culture at Wadleigh through publishing a piece titled "String Quartette" in the school’s June 1940 yearbook.
 
-{% include simple_image_viewer.html collection='exhsel' pid='osh013' %}
+{% include inline_image.html collection='exhsel' pid='osh013' %}
 
 Miss Brown also collaborated with a peer, Goldye Waters, in the original piece, “Wadleigh on Parade.” The yearbook credits Miss Waters for “Words and Music,” and Miss Brown for the piano parts that formed the “accompaniment." Their song was published in the 1940 yearbook and as individual sheet music with “copyright applied for,” now preserved at the Schomburg Center.   
 
-{% include simple_image_viewer.html collection='exh' pid='osh006' %}
+{% include inline_image.html collection='exh' pid='osh006' %}
 
 Musicians Patrice P. Eaton and Gary Mitchell, Jr. performed and recorded Waters’ and Brown’s 1940 composition in 2020.
 
